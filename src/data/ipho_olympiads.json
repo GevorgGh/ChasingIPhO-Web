@@ -1,0 +1,4427 @@
+{
+  "topics": {
+    "mechanics": "Mechanics",
+    "electromagnetism": "Electromagnetism",
+    "thermodynamics": "Thermodynamics",
+    "waves-optics": "Waves & Optics",
+    "modern-quantum": "Modern & Quantum",
+    "relativity": "Relativity",
+    "astrophysics": "Astrophysics"
+  },
+  "subtopics": {
+    "kinematics": {
+      "title": "Kinematics",
+      "of": "mechanics"
+    },
+    "dynamics": {
+      "title": "Dynamics",
+      "of": "mechanics"
+    },
+    "rigid-body": {
+      "title": "Rigid body",
+      "of": "mechanics"
+    },
+    "fluids": {
+      "title": "Fluids",
+      "of": "mechanics"
+    },
+    "gravitation": {
+      "title": "Gravitation",
+      "of": "mechanics"
+    },
+    "statics": {
+      "title": "Statics",
+      "of": "mechanics"
+    },
+    "electrostatics": {
+      "title": "Electrostatics",
+      "of": "electromagnetism"
+    },
+    "circuits": {
+      "title": "Circuits",
+      "of": "electromagnetism"
+    },
+    "magnetostatics": {
+      "title": "Magnetostatics",
+      "of": "electromagnetism"
+    },
+    "induction": {
+      "title": "Induction",
+      "of": "electromagnetism"
+    },
+    "em-waves": {
+      "title": "Em waves",
+      "of": "electromagnetism"
+    },
+    "heat-transfer": {
+      "title": "Heat transfer",
+      "of": "thermodynamics"
+    },
+    "gas-laws": {
+      "title": "Gas laws",
+      "of": "thermodynamics"
+    },
+    "entropy": {
+      "title": "Entropy",
+      "of": "thermodynamics"
+    },
+    "kinetic-theory": {
+      "title": "Kinetic theory",
+      "of": "thermodynamics"
+    },
+    "phase-transitions": {
+      "title": "Phase transitions",
+      "of": "thermodynamics"
+    },
+    "statistical-mechanics": {
+      "title": "Statistical mechanics",
+      "of": "thermodynamics"
+    },
+    "oscillations": {
+      "title": "Oscillations",
+      "of": "waves-optics"
+    },
+    "wave-propagation": {
+      "title": "Wave propagation",
+      "of": "waves-optics"
+    },
+    "interference": {
+      "title": "Interference",
+      "of": "waves-optics"
+    },
+    "diffraction": {
+      "title": "Diffraction",
+      "of": "waves-optics"
+    },
+    "geometrical-optics": {
+      "title": "Geometrical optics",
+      "of": "waves-optics"
+    },
+    "polarization": {
+      "title": "Polarization",
+      "of": "waves-optics"
+    },
+    "atomic": {
+      "title": "Atomic",
+      "of": "modern-quantum"
+    },
+    "nuclear": {
+      "title": "Nuclear",
+      "of": "modern-quantum"
+    },
+    "particle": {
+      "title": "Particle",
+      "of": "modern-quantum"
+    },
+    "solid-state": {
+      "title": "Solid state",
+      "of": "modern-quantum"
+    },
+    "quantum-mechanics": {
+      "title": "Quantum mechanics",
+      "of": "modern-quantum"
+    },
+    "relativistic-kinematics": {
+      "title": "Relativistic kinematics",
+      "of": "relativity"
+    },
+    "stellar": {
+      "title": "Stellar",
+      "of": "astrophysics"
+    },
+    "orbital-mechanics": {
+      "title": "Orbital mechanics",
+      "of": "astrophysics"
+    },
+    "cosmology": {
+      "title": "Cosmology",
+      "of": "astrophysics"
+    },
+    "observational": {
+      "title": "Observational",
+      "of": "astrophysics"
+    }
+  },
+  "problems": [
+    {
+      "id": "ipho_2026_p1",
+      "year": "2026",
+      "country": "Colombia",
+      "number": "1",
+      "type": "Theory",
+      "title": "Three problems",
+      "topics": [
+        "mechanics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "statics",
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2026_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2026_S1.pdf"
+    },
+    {
+      "id": "ipho_2026_p2",
+      "year": "2026",
+      "country": "Colombia",
+      "number": "2",
+      "type": "Theory",
+      "title": "Cooking with sunlight?",
+      "topics": [
+        "mechanics",
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics",
+        "kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2026_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2026_S2.pdf"
+    },
+    {
+      "id": "ipho_2026_p3",
+      "year": "2026",
+      "country": "Colombia",
+      "number": "3",
+      "type": "Theory",
+      "title": "Chasing the absolute zero",
+      "topics": [
+        "thermodynamics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "heat-engines",
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2026_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2026_S3.pdf"
+    },
+    {
+      "id": "ipho_2026_p4",
+      "year": "2026",
+      "country": "Colombia",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Ideal Gas, Vapor Pressure, and Heat Conduction",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "phase-transitions",
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2026_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2026_S4.pdf"
+    },
+    {
+      "id": "ipho_2025_p1",
+      "year": "2025",
+      "country": "France",
+      "number": "1",
+      "type": "Theory",
+      "title": "Hydrogen and galaxies",
+      "topics": [
+        "astrophysics",
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "orbital-mechanics",
+        "atomic"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_S1.pdf"
+    },
+    {
+      "id": "ipho_2025_p2",
+      "year": "2025",
+      "country": "France",
+      "number": "2",
+      "type": "Theory",
+      "title": "Cox's Timepiece",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_S2.pdf"
+    },
+    {
+      "id": "ipho_2025_p3",
+      "year": "2025",
+      "country": "France",
+      "number": "3",
+      "type": "Theory",
+      "title": "Champagne!",
+      "topics": [
+        "mechanics",
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "fluids",
+        "gas-laws"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_S3.pdf"
+    },
+    {
+      "id": "ipho_2025_p4",
+      "year": "2025",
+      "country": "France",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Earth's magnetic field measurement",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_S4.pdf"
+    },
+    {
+      "id": "ipho_2025_p5",
+      "year": "2025",
+      "country": "France",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Sand craters and dunes",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics",
+        "energy-momentum"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_S5.pdf"
+    },
+    {
+      "id": "ipho_2025_p6",
+      "year": "2025",
+      "country": "France",
+      "number": "6",
+      "type": "Theory Backup",
+      "title": "Strongly correlated Fermi gases",
+      "topics": [
+        "thermodynamics",
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "statistical-mechanics",
+        "quantum-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_Q6.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2025_S6.pdf"
+    },
+    {
+      "id": "ipho_2024_p1",
+      "year": "2024",
+      "country": "Iran",
+      "number": "1",
+      "type": "Theory",
+      "title": "Greenhouse Effect",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2024_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2024_S1.pdf"
+    },
+    {
+      "id": "ipho_2024_p2",
+      "year": "2024",
+      "country": "Iran",
+      "number": "2",
+      "type": "Theory",
+      "title": "Trapping Ions and Cooling Atoms",
+      "topics": [
+        "electromagnetism",
+        "mechanics"
+      ],
+      "subtopics": [
+        "electrostatics",
+        "oscillations"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2024_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2024_S2.pdf"
+    },
+    {
+      "id": "ipho_2024_p3",
+      "year": "2024",
+      "country": "Iran",
+      "number": "3",
+      "type": "Theory",
+      "title": "Black Widow Pulsar",
+      "topics": [
+        "astrophysics"
+      ],
+      "subtopics": [
+        "orbital-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2024_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2024_S3.pdf"
+    },
+    {
+      "id": "ipho_2024_p4",
+      "year": "2024",
+      "country": "Iran",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Heat Conduction in a Copper Rod",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "heat-transfer",
+        "kinetic-theory"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2024_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2024_S4.pdf"
+    },
+    {
+      "id": "ipho_2024_p5",
+      "year": "2024",
+      "country": "Iran",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Diffraction from Phase Steps",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "interference",
+        "diffraction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2024_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2024_S5.pdf"
+    },
+    {
+      "id": "ipho_2023_p1",
+      "year": "2023",
+      "country": "Japan",
+      "number": "1",
+      "type": "Theory",
+      "title": "Soil Colloids",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "kinetic-theory"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2023_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2023_S1.pdf"
+    },
+    {
+      "id": "ipho_2023_p2",
+      "year": "2023",
+      "country": "Japan",
+      "number": "2",
+      "type": "Theory",
+      "title": "Neutron Stars",
+      "topics": [
+        "modern-quantum",
+        "relativity"
+      ],
+      "subtopics": [
+        "nuclear",
+        "relativistic-kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2023_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2023_S2.pdf"
+    },
+    {
+      "id": "ipho_2023_p3",
+      "year": "2023",
+      "country": "Japan",
+      "number": "3",
+      "type": "Theory",
+      "title": "Water and Objects",
+      "topics": [
+        "mechanics",
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "fluids",
+        "energy-momentum"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2023_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2023_S3.pdf"
+    },
+    {
+      "id": "ipho_2023_p4",
+      "year": "2023",
+      "country": "Japan",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Mass Measurement",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "oscillations"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2023_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2023_S4.pdf"
+    },
+    {
+      "id": "ipho_2023_p5",
+      "year": "2023",
+      "country": "Japan",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Birefringence",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "interference",
+        "polarization"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2023_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2023_S5.pdf"
+    },
+    {
+      "id": "ipho_2022_p1",
+      "year": "2022",
+      "country": "Switzerland",
+      "number": "1",
+      "type": "Theory",
+      "title": "Permanent magnets",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2022_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2022_S1.pdf"
+    },
+    {
+      "id": "ipho_2022_p2",
+      "year": "2022",
+      "country": "Switzerland",
+      "number": "2",
+      "type": "Theory",
+      "title": "James Webb Space Telescope",
+      "topics": [
+        "thermodynamics",
+        "waves-optics",
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "heat-transfer",
+        "diffraction",
+        "solid-state"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2022_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2022_S2.pdf"
+    },
+    {
+      "id": "ipho_2022_p3",
+      "year": "2022",
+      "country": "Switzerland",
+      "number": "3",
+      "type": "Theory",
+      "title": "Scaling laws",
+      "topics": [
+        "mechanics",
+        "relativity"
+      ],
+      "subtopics": [
+        "rigid-body",
+        "relativistic-kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2022_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2022_S3.pdf"
+    },
+    {
+      "id": "ipho_2022_p4",
+      "year": "2022",
+      "country": "Switzerland",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Planet",
+      "topics": [
+        "mechanics",
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "kinematics",
+        "fluids",
+        "gas-laws"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2022_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2022_S4.pdf"
+    },
+    {
+      "id": "ipho_2022_p5",
+      "year": "2022",
+      "country": "Switzerland",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Cylindrical Diode",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2022_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2022_S5.pdf"
+    },
+    {
+      "id": "ipho_2021_p1",
+      "year": "2021",
+      "country": "Lithuania",
+      "number": "1",
+      "type": "Theory",
+      "title": "Planetary Physics",
+      "topics": [
+        "astrophysics"
+      ],
+      "subtopics": [
+        "stellar"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2021_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2021_S1.pdf"
+    },
+    {
+      "id": "ipho_2021_p2",
+      "year": "2021",
+      "country": "Lithuania",
+      "number": "2",
+      "type": "Theory",
+      "title": "Electrostatic Lens",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2021_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2021_S2.pdf"
+    },
+    {
+      "id": "ipho_2021_p3",
+      "year": "2021",
+      "country": "Lithuania",
+      "number": "3",
+      "type": "Theory",
+      "title": "Particles and Waves",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "quantum-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2021_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2021_S3.pdf"
+    },
+    {
+      "id": "ipho_2021_p4",
+      "year": "2021",
+      "country": "Lithuania",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Non-ideal Capacitors",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2021_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2021_S4.pdf"
+    },
+    {
+      "id": "ipho_2021_p5",
+      "year": "2021",
+      "country": "Lithuania",
+      "number": "5",
+      "type": "Experimental",
+      "title": "LEDs",
+      "topics": [
+        "electromagnetism",
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "circuits",
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2021_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2021_S5.pdf"
+    },
+    {
+      "id": "ipho_2020_p1",
+      "year": "2020",
+      "country": "IdPhO",
+      "number": "1",
+      "type": "Theory",
+      "title": "Problem Mix",
+      "topics": [
+        "electromagnetism",
+        "mechanics"
+      ],
+      "subtopics": [
+        "electrostatics",
+        "magnetostatics",
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2020_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2020_S1.pdf"
+    },
+    {
+      "id": "ipho_2020_p2",
+      "year": "2020",
+      "country": "IdPhO",
+      "number": "2",
+      "type": "Theory",
+      "title": "Anisotropic Friction",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2020_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2020_S2.pdf"
+    },
+    {
+      "id": "ipho_2020_p3",
+      "year": "2020",
+      "country": "IdPhO",
+      "number": "3",
+      "type": "Theory",
+      "title": "Laser Technologies",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "wave-propagation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2020_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2020_S3.pdf"
+    },
+    {
+      "id": "ipho_2020_p4",
+      "year": "2020",
+      "country": "IdPhO",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Crystallography",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "diffraction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2020_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2020_S4.pdf"
+    },
+    {
+      "id": "ipho_2019_p1",
+      "year": "2019",
+      "country": "Israel",
+      "number": "1",
+      "type": "Theory",
+      "title": "Zero-length springs and slinky coils",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "oscillations",
+        "energy-momentum"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2019_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2019_S1.pdf"
+    },
+    {
+      "id": "ipho_2019_p2",
+      "year": "2019",
+      "country": "Israel",
+      "number": "2",
+      "type": "Theory",
+      "title": "The Physics of a Microwave Oven",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics",
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2019_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2019_S2.pdf"
+    },
+    {
+      "id": "ipho_2019_p3",
+      "year": "2019",
+      "country": "Israel",
+      "number": "3",
+      "type": "Theory",
+      "title": "Thermoacoustic Engine",
+      "topics": [
+        "thermodynamics",
+        "waves-optics"
+      ],
+      "subtopics": [
+        "heat-transfer",
+        "wave-propagation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2019_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2019_S3.pdf"
+    },
+    {
+      "id": "ipho_2019_p4",
+      "year": "2019",
+      "country": "Israel",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Optical Measurements",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics",
+        "interference",
+        "diffraction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2019_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2019_S4.pdf"
+    },
+    {
+      "id": "ipho_2019_p5",
+      "year": "2019",
+      "country": "Israel",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Wiedemann-Franz Law",
+      "topics": [
+        "thermodynamics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2019_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2019_S5.pdf"
+    },
+    {
+      "id": "ipho_2018_p1",
+      "year": "2018",
+      "country": "Portugal",
+      "number": "1",
+      "type": "Theory",
+      "title": "LIGO-GW150914",
+      "topics": [
+        "astrophysics",
+        "mechanics"
+      ],
+      "subtopics": [
+        "orbital-mechanics",
+        "gravitation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2018_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2018_S1.pdf"
+    },
+    {
+      "id": "ipho_2018_p2",
+      "year": "2018",
+      "country": "Portugal",
+      "number": "2",
+      "type": "Theory",
+      "title": "Where is the neutrino?",
+      "topics": [
+        "modern-quantum",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "particle",
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2018_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2018_S2.pdf"
+    },
+    {
+      "id": "ipho_2018_p3",
+      "year": "2018",
+      "country": "Portugal",
+      "number": "3",
+      "type": "Theory",
+      "title": "Physics of Live Systems",
+      "topics": [
+        "mechanics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "fluids",
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2018_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2018_S3.pdf"
+    },
+    {
+      "id": "ipho_2018_p4",
+      "year": "2018",
+      "country": "Portugal",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Paper Transistor",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2018_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2018_S4.pdf"
+    },
+    {
+      "id": "ipho_2018_p5",
+      "year": "2018",
+      "country": "Portugal",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Viscoelasticity of a Polymer Thread",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2018_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2018_S5.pdf"
+    },
+    {
+      "id": "ipho_2017_p1",
+      "year": "2017",
+      "country": "Indonesia",
+      "number": "1",
+      "type": "Theory",
+      "title": "Dark Matter",
+      "topics": [
+        "astrophysics"
+      ],
+      "subtopics": [
+        "stellar",
+        "observational"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2017_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2017_S1.pdf"
+    },
+    {
+      "id": "ipho_2017_p2",
+      "year": "2017",
+      "country": "Indonesia",
+      "number": "2",
+      "type": "Theory",
+      "title": "Earthquake, Volcano and Tsunami",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "wave-propagation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2017_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2017_S2.pdf"
+    },
+    {
+      "id": "ipho_2017_p3",
+      "year": "2017",
+      "country": "Indonesia",
+      "number": "3",
+      "type": "Theory",
+      "title": "Cosmic Inflation",
+      "topics": [
+        "astrophysics"
+      ],
+      "subtopics": [
+        "cosmology"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2017_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2017_S3.pdf"
+    },
+    {
+      "id": "ipho_2017_p4",
+      "year": "2017",
+      "country": "Indonesia",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Optics of a Salt Solution",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2017_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2017_S4.pdf"
+    },
+    {
+      "id": "ipho_2017_p5",
+      "year": "2017",
+      "country": "Indonesia",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Earthquake and Volcano Sensing",
+      "topics": [
+        "electromagnetism",
+        "waves-optics"
+      ],
+      "subtopics": [
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2017_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2017_S5.pdf"
+    },
+    {
+      "id": "ipho_2016_p1",
+      "year": "2016",
+      "country": "Switzerland",
+      "number": "1",
+      "type": "Theory",
+      "title": "Two Problems in Mechanics",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body",
+        "oscillations",
+        "statics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2016_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2016_S1.pdf"
+    },
+    {
+      "id": "ipho_2016_p2",
+      "year": "2016",
+      "country": "Switzerland",
+      "number": "2",
+      "type": "Theory",
+      "title": "Nonlinear Dynamics in Electric Circuits",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2016_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2016_S2.pdf"
+    },
+    {
+      "id": "ipho_2016_p3",
+      "year": "2016",
+      "country": "Switzerland",
+      "number": "3",
+      "type": "Theory",
+      "title": "Large Hadron Collider",
+      "topics": [
+        "modern-quantum",
+        "relativity",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "particle",
+        "relativistic-kinematics",
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2016_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2016_S3.pdf"
+    },
+    {
+      "id": "ipho_2016_p4",
+      "year": "2016",
+      "country": "Switzerland",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Electrical Conductivity in 2D",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2016_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2016_S4.pdf"
+    },
+    {
+      "id": "ipho_2016_p5",
+      "year": "2016",
+      "country": "Switzerland",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Jumping Beads",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2016_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2016_S5.pdf"
+    },
+    {
+      "id": "ipho_2015_p1",
+      "year": "2015",
+      "country": "India",
+      "number": "1",
+      "type": "Theory",
+      "title": "Particles from the Sun",
+      "topics": [
+        "astrophysics",
+        "thermodynamics",
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "stellar",
+        "heat-transfer",
+        "nuclear"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2015_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2015_S1.pdf"
+    },
+    {
+      "id": "ipho_2015_p2",
+      "year": "2015",
+      "country": "India",
+      "number": "2",
+      "type": "Theory",
+      "title": "The Extremum Principle",
+      "topics": [
+        "mechanics",
+        "waves-optics"
+      ],
+      "subtopics": [
+        "kinematics",
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2015_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2015_S2.pdf"
+    },
+    {
+      "id": "ipho_2015_p3",
+      "year": "2015",
+      "country": "India",
+      "number": "3",
+      "type": "Theory",
+      "title": "The Design of a Nuclear Reactor",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "nuclear"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2015_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2015_S3.pdf"
+    },
+    {
+      "id": "ipho_2015_p4",
+      "year": "2015",
+      "country": "India",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Diffraction due to Helical Structure",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "diffraction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2015_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2015_S4.pdf"
+    },
+    {
+      "id": "ipho_2015_p5",
+      "year": "2015",
+      "country": "India",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Diffraction due to Surface Tension",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "interference",
+        "diffraction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2015_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2015_S5.pdf"
+    },
+    {
+      "id": "ipho_2014_p1",
+      "year": "2014",
+      "country": "Kazakhstan",
+      "number": "1",
+      "type": "Theory",
+      "title": "Three Problems",
+      "topics": [
+        "mechanics",
+        "thermodynamics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "rigid-body",
+        "heat-transfer",
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2014_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2014_S1.pdf"
+    },
+    {
+      "id": "ipho_2014_p2",
+      "year": "2014",
+      "country": "Kazakhstan",
+      "number": "2",
+      "type": "Theory",
+      "title": "Van der Waals Gas",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "phase-transitions"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2014_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2014_S2.pdf"
+    },
+    {
+      "id": "ipho_2014_p3",
+      "year": "2014",
+      "country": "Kazakhstan",
+      "number": "3",
+      "type": "Theory",
+      "title": "Gas Discharge",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2014_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2014_S3.pdf"
+    },
+    {
+      "id": "ipho_2014_p4",
+      "year": "2014",
+      "country": "Kazakhstan",
+      "number": "4",
+      "type": "Experimental",
+      "title": "To see invisible!",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "polarization"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2014_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2014_S4.pdf"
+    },
+    {
+      "id": "ipho_2013_p1",
+      "year": "2013",
+      "country": "Denmark",
+      "number": "1",
+      "type": "Theory",
+      "title": "The Maribo Meteorite",
+      "topics": [
+        "mechanics",
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "kinematics",
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2013_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2013_S1.pdf"
+    },
+    {
+      "id": "ipho_2013_p2",
+      "year": "2013",
+      "country": "Denmark",
+      "number": "2",
+      "type": "Theory",
+      "title": "Plasmonic Steam Generator",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2013_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2013_S2.pdf"
+    },
+    {
+      "id": "ipho_2013_p3",
+      "year": "2013",
+      "country": "Denmark",
+      "number": "3",
+      "type": "Theory",
+      "title": "The Greenlandic Ice Sheet",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2013_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2013_S3.pdf"
+    },
+    {
+      "id": "ipho_2013_p4",
+      "year": "2013",
+      "country": "Denmark",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Speed of Light",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "wave-propagation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2013_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2013_S4.pdf"
+    },
+    {
+      "id": "ipho_2013_p5",
+      "year": "2013",
+      "country": "Denmark",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Solar Cells",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2013_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2013_S5.pdf"
+    },
+    {
+      "id": "ipho_2012_p1",
+      "year": "2012",
+      "country": "Estonia",
+      "number": "1",
+      "type": "Theory",
+      "title": "Focus on sketches",
+      "topics": [
+        "mechanics",
+        "thermodynamics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "kinematics",
+        "gas-laws",
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2012_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2012_S1.pdf"
+    },
+    {
+      "id": "ipho_2012_p2",
+      "year": "2012",
+      "country": "Estonia",
+      "number": "2",
+      "type": "Theory",
+      "title": "Kelvin water dropper",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2012_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2012_S2.pdf"
+    },
+    {
+      "id": "ipho_2012_p3",
+      "year": "2012",
+      "country": "Estonia",
+      "number": "3",
+      "type": "Theory",
+      "title": "Protostar formation",
+      "topics": [
+        "mechanics",
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "gravitation",
+        "gas-laws",
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2012_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2012_S3.pdf"
+    },
+    {
+      "id": "ipho_2012_p4",
+      "year": "2012",
+      "country": "Estonia",
+      "number": "4",
+      "type": "Experimental",
+      "title": "The Magnetic Permeability of Water",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2012_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2012_S4.pdf"
+    },
+    {
+      "id": "ipho_2012_p5",
+      "year": "2012",
+      "country": "Estonia",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Nonlinear Black Box",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2012_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2012_S5.pdf"
+    },
+    {
+      "id": "ipho_2011_p1",
+      "year": "2011",
+      "country": "Thailand",
+      "number": "1",
+      "type": "Theory",
+      "title": "A Three-body Problem and lisa",
+      "topics": [
+        "mechanics",
+        "astrophysics"
+      ],
+      "subtopics": [
+        "gravitation",
+        "orbital-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2011_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2011_S1.pdf"
+    },
+    {
+      "id": "ipho_2011_p2",
+      "year": "2011",
+      "country": "Thailand",
+      "number": "2",
+      "type": "Theory",
+      "title": "An Electrified Soap Bubble",
+      "topics": [
+        "electromagnetism",
+        "mechanics"
+      ],
+      "subtopics": [
+        "electrostatics",
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2011_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2011_S2.pdf"
+    },
+    {
+      "id": "ipho_2011_p3",
+      "year": "2011",
+      "country": "Thailand",
+      "number": "3",
+      "type": "Theory",
+      "title": "Scattering of an Ion by a Neutral Atom",
+      "topics": [
+        "electromagnetism",
+        "mechanics"
+      ],
+      "subtopics": [
+        "electrostatics",
+        "kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2011_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2011_S3.pdf"
+    },
+    {
+      "id": "ipho_2011_p4",
+      "year": "2011",
+      "country": "Thailand",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Blackbox: Capacitive Displacement Sensor",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "electrostatics",
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2011_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2011_S4.pdf"
+    },
+    {
+      "id": "ipho_2011_p5",
+      "year": "2011",
+      "country": "Thailand",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Mechanical Blackbox: A cylinder with a ball inside",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body",
+        "oscillations"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2011_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2011_S5.pdf"
+    },
+    {
+      "id": "ipho_2010_p1",
+      "year": "2010",
+      "country": "Croatia",
+      "number": "1",
+      "type": "Theory",
+      "title": "Image of a charge in a metallic object",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2010_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2010_S1.pdf"
+    },
+    {
+      "id": "ipho_2010_p2",
+      "year": "2010",
+      "country": "Croatia",
+      "number": "2",
+      "type": "Theory",
+      "title": "Chimney physics",
+      "topics": [
+        "thermodynamics",
+        "mechanics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2010_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2010_S2.pdf"
+    },
+    {
+      "id": "ipho_2010_p3",
+      "year": "2010",
+      "country": "Croatia",
+      "number": "3",
+      "type": "Theory",
+      "title": "Simple model of an atomic nucleus",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "nuclear"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2010_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2010_S3.pdf"
+    },
+    {
+      "id": "ipho_2010_p4",
+      "year": "2010",
+      "country": "Croatia",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Elasticity of Sheets",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2010_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2010_S4.pdf"
+    },
+    {
+      "id": "ipho_2010_p5",
+      "year": "2010",
+      "country": "Croatia",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Forces between Magnets",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2010_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2010_S5.pdf"
+    },
+    {
+      "id": "ipho_2009_p1",
+      "year": "2009",
+      "country": "Mexico",
+      "number": "1",
+      "type": "Theory",
+      "title": "Evolution of the Earth-Moon System",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "gravitation",
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2009_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2009_S1.pdf"
+    },
+    {
+      "id": "ipho_2009_p2",
+      "year": "2009",
+      "country": "Mexico",
+      "number": "2",
+      "type": "Theory",
+      "title": "Doppler Laser Cooling and Optical Molasses",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "atomic",
+        "quantum-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2009_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2009_S2.pdf"
+    },
+    {
+      "id": "ipho_2009_p3",
+      "year": "2009",
+      "country": "Mexico",
+      "number": "3",
+      "type": "Theory",
+      "title": "Why are Stars so Large?",
+      "topics": [
+        "astrophysics",
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "stellar",
+        "quantum-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2009_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2009_S3.pdf"
+    },
+    {
+      "id": "ipho_2009_p4",
+      "year": "2009",
+      "country": "Mexico",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Wavelength of a Diode Laser",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "diffraction",
+        "interference"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2009_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2009_S4.pdf"
+    },
+    {
+      "id": "ipho_2009_p5",
+      "year": "2009",
+      "country": "Mexico",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Birefringence of Mica",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "polarization"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2009_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2009_S5.pdf"
+    },
+    {
+      "id": "ipho_2008_p1",
+      "year": "2008",
+      "country": "Vietnam",
+      "number": "1",
+      "type": "Theory",
+      "title": "Water-Powered Rice-Pounding Mortar",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body",
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2008_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2008_S1.pdf"
+    },
+    {
+      "id": "ipho_2008_p2",
+      "year": "2008",
+      "country": "Vietnam",
+      "number": "2",
+      "type": "Theory",
+      "title": "Cherenkov Light and Ring Imaging Counter",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "particle"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2008_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2008_S2.pdf"
+    },
+    {
+      "id": "ipho_2008_p3",
+      "year": "2008",
+      "country": "Vietnam",
+      "number": "3",
+      "type": "Theory",
+      "title": "Change of Air Temperature in the Atmosphere",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "kinetic-theory"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2008_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2008_S3.pdf"
+    },
+    {
+      "id": "ipho_2008_p4",
+      "year": "2008",
+      "country": "Vietnam",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Differential Thermometric Method",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "phase-transitions",
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2008_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2008_S4.pdf"
+    },
+    {
+      "id": "ipho_2007_p1",
+      "year": "2007",
+      "country": "Iran",
+      "number": "1",
+      "type": "Theory",
+      "title": "Black Holes",
+      "topics": [
+        "modern-quantum",
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "quantum-mechanics",
+        "entropy"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2007_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2007_S1.pdf"
+    },
+    {
+      "id": "ipho_2007_p2",
+      "year": "2007",
+      "country": "Iran",
+      "number": "2",
+      "type": "Theory",
+      "title": "Air Bags",
+      "topics": [
+        "electromagnetism",
+        "mechanics"
+      ],
+      "subtopics": [
+        "electrostatics",
+        "circuits",
+        "dynamics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2007_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2007_S2.pdf"
+    },
+    {
+      "id": "ipho_2007_p3",
+      "year": "2007",
+      "country": "Iran",
+      "number": "3",
+      "type": "Theory",
+      "title": "Binary Stars",
+      "topics": [
+        "astrophysics"
+      ],
+      "subtopics": [
+        "orbital-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2007_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2007_S3.pdf"
+    },
+    {
+      "id": "ipho_2007_p4",
+      "year": "2007",
+      "country": "Iran",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Band Gap of Semiconductor Thin Films",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "diffraction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2007_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2007_S4.pdf"
+    },
+    {
+      "id": "ipho_2006_p1",
+      "year": "2006",
+      "country": "Singapore",
+      "number": "1",
+      "type": "Theory",
+      "title": "Gravity in a Neutron Interferometer",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "quantum-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2006_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2006_S1.pdf"
+    },
+    {
+      "id": "ipho_2006_p2",
+      "year": "2006",
+      "country": "Singapore",
+      "number": "2",
+      "type": "Theory",
+      "title": "Watching a Rod in Motion",
+      "topics": [
+        "relativity"
+      ],
+      "subtopics": [
+        "relativistic-kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2006_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2006_S2.pdf"
+    },
+    {
+      "id": "ipho_2006_p3",
+      "year": "2006",
+      "country": "Singapore",
+      "number": "3",
+      "type": "Theory",
+      "title": "Five Estimations",
+      "topics": [
+        "thermodynamics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "heat-transfer",
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2006_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2006_S3.pdf"
+    },
+    {
+      "id": "ipho_2006_p4",
+      "year": "2006",
+      "country": "Singapore",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Interference, Reflection and Diffraction",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "interference"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2006_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2006_S4.pdf"
+    },
+    {
+      "id": "ipho_2005_p1",
+      "year": "2005",
+      "country": "Spain",
+      "number": "1",
+      "type": "Theory",
+      "title": "An ill Fated Satellite",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "gravitation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2005_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2005_S1.pdf"
+    },
+    {
+      "id": "ipho_2005_p2",
+      "year": "2005",
+      "country": "Spain",
+      "number": "2",
+      "type": "Theory",
+      "title": "Absolute Measurements of Electrical Quantities",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "induction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2005_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2005_S2.pdf"
+    },
+    {
+      "id": "ipho_2005_p3",
+      "year": "2005",
+      "country": "Spain",
+      "number": "3",
+      "type": "Theory",
+      "title": "Neutrons in a Gravitational Field",
+      "topics": [
+        "modern-quantum",
+        "mechanics"
+      ],
+      "subtopics": [
+        "quantum-mechanics",
+        "gravitation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2005_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2005_S3.pdf"
+    },
+    {
+      "id": "ipho_2005_p4",
+      "year": "2005",
+      "country": "Spain",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Planck's Constant in an Incandescent Lamp",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "quantum-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2005_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2005_S4.pdf"
+    },
+    {
+      "id": "ipho_2004_p1",
+      "year": "2004",
+      "country": "Korea",
+      "number": "1",
+      "type": "Theory",
+      "title": "“Ping-Pong” Resistor",
+      "topics": [
+        "electromagnetism",
+        "mechanics"
+      ],
+      "subtopics": [
+        "electrostatics",
+        "kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2004_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2004_S1.pdf"
+    },
+    {
+      "id": "ipho_2004_p2",
+      "year": "2004",
+      "country": "Korea",
+      "number": "2",
+      "type": "Theory",
+      "title": "Rising Balloon",
+      "topics": [
+        "mechanics",
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "fluids",
+        "gas-laws"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2004_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2004_S2.pdf"
+    },
+    {
+      "id": "ipho_2004_p3",
+      "year": "2004",
+      "country": "Korea",
+      "number": "3",
+      "type": "Theory",
+      "title": "Atomic Probe Microscope",
+      "topics": [
+        "mechanics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "oscillations",
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2004_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2004_S3.pdf"
+    },
+    {
+      "id": "ipho_2004_p4",
+      "year": "2004",
+      "country": "Korea",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Mechanical \"Black Box\"",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2004_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2004_S4.pdf"
+    },
+    {
+      "id": "ipho_2003_p1",
+      "year": "2003",
+      "country": "Taiwan",
+      "number": "1",
+      "type": "Theory",
+      "title": "A Swing with a Falling Weight",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics",
+        "energy-momentum"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2003_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2003_S1.pdf"
+    },
+    {
+      "id": "ipho_2003_p2",
+      "year": "2003",
+      "country": "Taiwan",
+      "number": "2",
+      "type": "Theory",
+      "title": "A Piezoelectric Crystal Resonator",
+      "topics": [
+        "mechanics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "dynamics",
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2003_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2003_S2.pdf"
+    },
+    {
+      "id": "ipho_2003_p3",
+      "year": "2003",
+      "country": "Taiwan",
+      "number": "3",
+      "type": "Theory",
+      "title": "Neutrino Mass and Neutron Decay",
+      "topics": [
+        "modern-quantum",
+        "waves-optics"
+      ],
+      "subtopics": [
+        "nuclear",
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2003_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2003_S3.pdf"
+    },
+    {
+      "id": "ipho_2003_p4",
+      "year": "2003",
+      "country": "Taiwan",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Optical Properties of Laser Diode",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "polarization"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2003_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2003_S4.pdf"
+    },
+    {
+      "id": "ipho_2002_p1",
+      "year": "2002",
+      "country": "Indonesia",
+      "number": "1",
+      "type": "Theory",
+      "title": "Ground-Penetrating Radar",
+      "topics": [
+        "electromagnetism",
+        "waves-optics"
+      ],
+      "subtopics": [
+        "em-waves",
+        "wave-propagation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2002_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2002_S1.pdf"
+    },
+    {
+      "id": "ipho_2002_p2",
+      "year": "2002",
+      "country": "Indonesia",
+      "number": "2",
+      "type": "Theory",
+      "title": "Sensing Electrical Signals",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "electrostatics",
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2002_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2002_S2.pdf"
+    },
+    {
+      "id": "ipho_2002_p3",
+      "year": "2002",
+      "country": "Indonesia",
+      "number": "3",
+      "type": "Theory",
+      "title": "A Heavy Vehicle Moving on An Inclined Road",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body",
+        "dynamics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2002_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2002_S3.pdf"
+    },
+    {
+      "id": "ipho_2002_p4",
+      "year": "2002",
+      "country": "Indonesia",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Physical Constants with Electrolysis",
+      "topics": [
+        "thermodynamics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "kinetic-theory",
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2002_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2002_S4.pdf"
+    },
+    {
+      "id": "ipho_2002_p5",
+      "year": "2002",
+      "country": "Indonesia",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Optical Black Box",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics",
+        "interference",
+        "diffraction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2002_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2002_S5.pdf"
+    },
+    {
+      "id": "ipho_2001_p1",
+      "year": "2001",
+      "country": "Turkey",
+      "number": "1",
+      "type": "Theory",
+      "title": "Four Problems",
+      "topics": [
+        "electromagnetism",
+        "thermodynamics",
+        "mechanics"
+      ],
+      "subtopics": [
+        "electrostatics",
+        "gas-laws",
+        "kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2001_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2001_S1.pdf"
+    },
+    {
+      "id": "ipho_2001_p2",
+      "year": "2001",
+      "country": "Turkey",
+      "number": "2",
+      "type": "Theory",
+      "title": "Binary Star System",
+      "topics": [
+        "astrophysics",
+        "mechanics"
+      ],
+      "subtopics": [
+        "orbital-mechanics",
+        "gravitation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2001_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2001_S2.pdf"
+    },
+    {
+      "id": "ipho_2001_p3",
+      "year": "2001",
+      "country": "Turkey",
+      "number": "3",
+      "type": "Theory",
+      "title": "Magnetohidrodynamic (MHD) Generator",
+      "topics": [
+        "electromagnetism",
+        "waves-optics"
+      ],
+      "subtopics": [
+        "magnetostatics",
+        "wave-propagation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2001_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2001_S3.pdf"
+    },
+    {
+      "id": "ipho_2001_p4",
+      "year": "2001",
+      "country": "Turkey",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Rotating Liquid",
+      "topics": [
+        "mechanics",
+        "waves-optics"
+      ],
+      "subtopics": [
+        "fluids",
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2001_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2001_S4.pdf"
+    },
+    {
+      "id": "ipho_2000_p1",
+      "year": "2000",
+      "country": "United Kingdom",
+      "number": "1",
+      "type": "Theory",
+      "title": "Five Problems",
+      "topics": [
+        "mechanics",
+        "thermodynamics",
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "dynamics",
+        "energy-momentum",
+        "heat-engines",
+        "entropy",
+        "nuclear",
+        "electrostatics",
+        "induction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2000_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2000_S1.pdf"
+    },
+    {
+      "id": "ipho_2000_p2",
+      "year": "2000",
+      "country": "United Kingdom",
+      "number": "2",
+      "type": "Theory",
+      "title": "Cathode Ray Tube",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2000_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2000_S2.pdf"
+    },
+    {
+      "id": "ipho_2000_p3",
+      "year": "2000",
+      "country": "United Kingdom",
+      "number": "3",
+      "type": "Theory",
+      "title": "Gravitational Waves and Light",
+      "topics": [
+        "mechanics",
+        "relativity"
+      ],
+      "subtopics": [
+        "oscillations",
+        "gravitation",
+        "relativistic-kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2000_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_2000_S3.pdf"
+    },
+    {
+      "id": "ipho_2000_p4",
+      "year": "2000",
+      "country": "United Kingdom",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Cdrom Spectrometer",
+      "topics": [
+        "waves-optics",
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "diffraction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2000_Q4.pdf",
+      "solution_url": null
+    },
+    {
+      "id": "ipho_2000_p5",
+      "year": "2000",
+      "country": "United Kingdom",
+      "number": "5",
+      "type": "Experimental",
+      "title": "The Magnetic Puck",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_2000_Q5.pdf",
+      "solution_url": null
+    },
+    {
+      "id": "ipho_1999_p1",
+      "year": "1999",
+      "country": "Italy",
+      "number": "1",
+      "type": "Theory",
+      "title": "Absorption of Radiation by a Gas",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1999_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1999_S1.pdf"
+    },
+    {
+      "id": "ipho_1999_p2",
+      "year": "1999",
+      "country": "Italy",
+      "number": "2",
+      "type": "Theory",
+      "title": "Magnetic field with a V-shaped wire",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1999_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1999_S2.pdf"
+    },
+    {
+      "id": "ipho_1999_p3",
+      "year": "1999",
+      "country": "Italy",
+      "number": "3",
+      "type": "Theory",
+      "title": "A Space Probe to Jupiter",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "gravitation",
+        "kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1999_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1999_S3.pdf"
+    },
+    {
+      "id": "ipho_1999_p4",
+      "year": "1999",
+      "country": "Italy",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Torsion pendulum",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "oscillations"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1999_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1999_S4.pdf"
+    },
+    {
+      "id": "ipho_1998_p1",
+      "year": "1998",
+      "country": "Iceland",
+      "number": "1",
+      "type": "Theory",
+      "title": "Rolling of a Hexagonal Prism",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1998_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1998_S1.pdf"
+    },
+    {
+      "id": "ipho_1998_p2",
+      "year": "1998",
+      "country": "Iceland",
+      "number": "2",
+      "type": "Theory",
+      "title": "Water under an Ice Cap",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1998_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1998_S2.pdf"
+    },
+    {
+      "id": "ipho_1998_p3",
+      "year": "1998",
+      "country": "Iceland",
+      "number": "3",
+      "type": "Theory",
+      "title": "Faster than Light?",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1998_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1998_S3.pdf"
+    },
+    {
+      "id": "ipho_1998_p4",
+      "year": "1998",
+      "country": "Iceland",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Electromagnetism",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "induction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1998_Q4.pdf",
+      "solution_url": null
+    },
+    {
+      "id": "ipho_1997_p1",
+      "year": "1997",
+      "country": "Canada",
+      "number": "1",
+      "type": "Theory",
+      "title": "Scalings",
+      "topics": [
+        "mechanics",
+        "modern-quantum",
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "oscillations",
+        "atomic",
+        "gas-laws"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1997_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1997_S1.pdf"
+    },
+    {
+      "id": "ipho_1997_p2",
+      "year": "1997",
+      "country": "Canada",
+      "number": "2",
+      "type": "Theory",
+      "title": "Nuclear Masses and Stability",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "nuclear"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1997_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1997_S2.pdf"
+    },
+    {
+      "id": "ipho_1997_p3",
+      "year": "1997",
+      "country": "Canada",
+      "number": "3",
+      "type": "Theory",
+      "title": "Solar-Powered Aircraft",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1997_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1997_S3.pdf"
+    },
+    {
+      "id": "ipho_1997_p4",
+      "year": "1997",
+      "country": "Canada",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Characterization of the Bimorph",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "oscillations"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1997_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1997_S4.pdf"
+    },
+    {
+      "id": "ipho_1996_p1",
+      "year": "1996",
+      "country": "Norway",
+      "number": "1",
+      "type": "Theory",
+      "title": "Five Problems",
+      "topics": [
+        "electromagnetism",
+        "thermodynamics",
+        "mechanics"
+      ],
+      "subtopics": [
+        "circuits",
+        "heat-transfer",
+        "energy-momentum"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1996_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1996_S1.pdf"
+    },
+    {
+      "id": "ipho_1996_p2",
+      "year": "1996",
+      "country": "Norway",
+      "number": "2",
+      "type": "Theory",
+      "title": "Dynamics of Electrons and Cylinders",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics",
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1996_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1996_S2.pdf"
+    },
+    {
+      "id": "ipho_1996_p3",
+      "year": "1996",
+      "country": "Norway",
+      "number": "3",
+      "type": "Theory",
+      "title": "Moon and Tides",
+      "topics": [
+        "mechanics",
+        "astrophysics"
+      ],
+      "subtopics": [
+        "gravitation",
+        "orbital-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1996_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1996_S3.pdf"
+    },
+    {
+      "id": "ipho_1996_p4",
+      "year": "1996",
+      "country": "Norway",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Gravity and Magnetism",
+      "topics": [
+        "mechanics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "oscillations",
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1996_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1996_S4.pdf"
+    },
+    {
+      "id": "ipho_1995_p1",
+      "year": "1995",
+      "country": "Australia",
+      "number": "1",
+      "type": "Theory",
+      "title": "Gravitational Red Shift and Stellar Mass",
+      "topics": [
+        "relativity",
+        "astrophysics"
+      ],
+      "subtopics": [
+        "relativistic-dynamics",
+        "stellar"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1995_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1995_S1.pdf"
+    },
+    {
+      "id": "ipho_1995_p2",
+      "year": "1995",
+      "country": "Australia",
+      "number": "2",
+      "type": "Theory",
+      "title": "Sound Propagation",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "wave-propagation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1995_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1995_S2.pdf"
+    },
+    {
+      "id": "ipho_1995_p3",
+      "year": "1995",
+      "country": "Australia",
+      "number": "3",
+      "type": "Theory",
+      "title": "Cylindrical Buoy",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "oscillations",
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1995_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1995_S3.pdf"
+    },
+    {
+      "id": "ipho_1995_p4",
+      "year": "1995",
+      "country": "Australia",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Terminal Velocity in a Viscous Liquid",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1995_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1995_S4.pdf"
+    },
+    {
+      "id": "ipho_1995_p5",
+      "year": "1995",
+      "country": "Australia",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Difiraction and Scattering of Laser Light",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "diffraction",
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1995_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1995_S5.pdf"
+    },
+    {
+      "id": "ipho_1994_p1",
+      "year": "1994",
+      "country": "China",
+      "number": "1",
+      "type": "Theory",
+      "title": "Relativistic Particle",
+      "topics": [
+        "relativity",
+        "mechanics"
+      ],
+      "subtopics": [
+        "relativistic-kinematics",
+        "relativistic-dynamics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1994_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1994_S1.pdf"
+    },
+    {
+      "id": "ipho_1994_p2",
+      "year": "1994",
+      "country": "China",
+      "number": "2",
+      "type": "Theory",
+      "title": "Superconducting Magnet",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1994_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1994_S2.pdf"
+    },
+    {
+      "id": "ipho_1994_p3",
+      "year": "1994",
+      "country": "China",
+      "number": "3",
+      "type": "Theory",
+      "title": "Collision of Discs with Surface Friction",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1994_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1994_S3.pdf"
+    },
+    {
+      "id": "ipho_1994_p4",
+      "year": "1994",
+      "country": "China",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Light Reflectivity of a Transparent Dielectric",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "polarization"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1994_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1994_S4.pdf"
+    },
+    {
+      "id": "ipho_1994_p5",
+      "year": "1994",
+      "country": "China",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Two Terminal Black Box",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1994_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1994_S5.pdf"
+    },
+    {
+      "id": "ipho_1993_p1",
+      "year": "1993",
+      "country": "USA",
+      "number": "1",
+      "type": "Theory",
+      "title": "Atmospheric Electricity",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1993_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1993_S1.pdf"
+    },
+    {
+      "id": "ipho_1993_p2",
+      "year": "1993",
+      "country": "USA",
+      "number": "2",
+      "type": "Theory",
+      "title": "Laser Forces on a Transparent Prism",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1993_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1993_S2.pdf"
+    },
+    {
+      "id": "ipho_1993_p3",
+      "year": "1993",
+      "country": "USA",
+      "number": "3",
+      "type": "Theory",
+      "title": "Electron Beam",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1993_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1993_S3.pdf"
+    },
+    {
+      "id": "ipho_1993_p4",
+      "year": "1993",
+      "country": "USA",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Heat of Vaporization of Nitrogen",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1993_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1993_S4.pdf"
+    },
+    {
+      "id": "ipho_1993_p5",
+      "year": "1993",
+      "country": "USA",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Magnetic Moments and Fields",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1993_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1993_S5.pdf"
+    },
+    {
+      "id": "ipho_1992_p1",
+      "year": "1992",
+      "country": "Finland",
+      "number": "1",
+      "type": "Theory",
+      "title": "A Rotating Satellite",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1992_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1992_S1.pdf"
+    },
+    {
+      "id": "ipho_1992_p2",
+      "year": "1992",
+      "country": "Finland",
+      "number": "2",
+      "type": "Theory",
+      "title": "The Longitudinal Motion of a Linear Molecule",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1992_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1992_S2.pdf"
+    },
+    {
+      "id": "ipho_1992_p3",
+      "year": "1992",
+      "country": "Finland",
+      "number": "3",
+      "type": "Theory",
+      "title": "A Satellite in Sunshine",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1992_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1992_S3.pdf"
+    },
+    {
+      "id": "ipho_1992_p4",
+      "year": "1992",
+      "country": "Finland",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Electric Breakdown of Air",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1992_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1992_S4.pdf"
+    },
+    {
+      "id": "ipho_1992_p5",
+      "year": "1992",
+      "country": "Finland",
+      "number": "5",
+      "type": "Experimental",
+      "title": "A Grating and Optical Filters",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1992_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1992_S5.pdf"
+    },
+    {
+      "id": "ipho_1991_p1",
+      "year": "1991",
+      "country": "Cuba",
+      "number": "1",
+      "type": "Theory",
+      "title": "Friction on Impact",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1991_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1991_S1.pdf"
+    },
+    {
+      "id": "ipho_1991_p2",
+      "year": "1991",
+      "country": "Cuba",
+      "number": "2",
+      "type": "Theory",
+      "title": "Relativistic Square",
+      "topics": [
+        "relativity"
+      ],
+      "subtopics": [
+        "relativistic-kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1991_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1991_S2.pdf"
+    },
+    {
+      "id": "ipho_1991_p3",
+      "year": "1991",
+      "country": "Cuba",
+      "number": "3",
+      "type": "Theory",
+      "title": "Cooling Atoms by Laser",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "atomic"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1991_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1991_S3.pdf"
+    },
+    {
+      "id": "ipho_1991_p4",
+      "year": "1991",
+      "country": "Cuba",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Three Terminal Black Box",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1991_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1991_S4.pdf"
+    },
+    {
+      "id": "ipho_1990_p1",
+      "year": "1990",
+      "country": "Netherlands",
+      "number": "1",
+      "type": "Theory",
+      "title": "X-ray Diffraction from a Crystal",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1990_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1990_S1.pdf"
+    },
+    {
+      "id": "ipho_1990_p2",
+      "year": "1990",
+      "country": "Netherlands",
+      "number": "2",
+      "type": "Theory",
+      "title": "Electric Experiments in the Magnetosphere",
+      "topics": [
+        "astrophysics"
+      ],
+      "subtopics": [
+        "orbital-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1990_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1990_S2.pdf"
+    },
+    {
+      "id": "ipho_1990_p3",
+      "year": "1990",
+      "country": "Netherlands",
+      "number": "3",
+      "type": "Theory",
+      "title": "The Rotating Neutron Star",
+      "topics": [
+        "astrophysics",
+        "mechanics"
+      ],
+      "subtopics": [
+        "stellar",
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1990_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1990_S3.pdf"
+    },
+    {
+      "id": "ipho_1990_p4",
+      "year": "1990",
+      "country": "Netherlands",
+      "number": "4",
+      "type": "Experimental",
+      "title": "LED Efficiency",
+      "topics": [
+        "astrophysics"
+      ],
+      "subtopics": [
+        "stellar"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1990_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1990_S4.pdf"
+    },
+    {
+      "id": "ipho_1990_p5",
+      "year": "1990",
+      "country": "Netherlands",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Two Magnets",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1990_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1990_S5.pdf"
+    },
+    {
+      "id": "ipho_1989_p1",
+      "year": "1989",
+      "country": "Poland",
+      "number": "1",
+      "type": "Theory",
+      "title": "Boiling Liquids",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "phase-transitions"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1989_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1989_S1.pdf"
+    },
+    {
+      "id": "ipho_1989_p2",
+      "year": "1989",
+      "country": "Poland",
+      "number": "2",
+      "type": "Theory",
+      "title": "Rotating Masses",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "gravitation",
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1989_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1989_S2.pdf"
+    },
+    {
+      "id": "ipho_1989_p3",
+      "year": "1989",
+      "country": "Poland",
+      "number": "3",
+      "type": "Theory",
+      "title": "Proton Microscope",
+      "topics": [
+        "electromagnetism",
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "magnetostatics",
+        "quantum-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1989_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1989_S3.pdf"
+    },
+    {
+      "id": "ipho_1989_p4",
+      "year": "1989",
+      "country": "Poland",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Piezoelectric Discs",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "wave-propagation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1989_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1989_S4.pdf"
+    },
+    {
+      "id": "ipho_1988_p1",
+      "year": "1988",
+      "country": "Austria",
+      "number": "1",
+      "type": "Theory",
+      "title": "Spectroscopy of Particle Velocities",
+      "topics": [
+        "relativity",
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "relativistic-kinematics",
+        "atomic"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1988_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1988_S1.pdf"
+    },
+    {
+      "id": "ipho_1988_p2",
+      "year": "1988",
+      "country": "Austria",
+      "number": "2",
+      "type": "Theory",
+      "title": "Maxwell's Wheel",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1988_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1988_S2.pdf"
+    },
+    {
+      "id": "ipho_1988_p3",
+      "year": "1988",
+      "country": "Austria",
+      "number": "3",
+      "type": "Theory",
+      "title": "Recombination of Ions in Ionized Gas",
+      "topics": [
+        "modern-quantum",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "atomic",
+        "quantum-mechanics",
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1988_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1988_S3.pdf"
+    },
+    {
+      "id": "ipho_1988_p4",
+      "year": "1988",
+      "country": "Austria",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Polarized Light",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "polarization",
+        "interference"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1988_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1988_S4.pdf"
+    },
+    {
+      "id": "ipho_1988_p5",
+      "year": "1988",
+      "country": "Austria",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Electron Tube",
+      "topics": [
+        "thermodynamics",
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "kinetic-theory",
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1988_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1988_S5.pdf"
+    },
+    {
+      "id": "ipho_1987_p1",
+      "year": "1987",
+      "country": "East Germany",
+      "number": "1",
+      "type": "Theory",
+      "title": "Ascending Moist Air",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "phase-transitions",
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1987_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1987_S1.pdf"
+    },
+    {
+      "id": "ipho_1987_p2",
+      "year": "1987",
+      "country": "East Germany",
+      "number": "2",
+      "type": "Theory",
+      "title": "Electrons in a Magnetic Field",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1987_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1987_S2.pdf"
+    },
+    {
+      "id": "ipho_1987_p3",
+      "year": "1987",
+      "country": "East Germany",
+      "number": "3",
+      "type": "Theory",
+      "title": "Infinite LC-grid",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1987_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1987_S3.pdf"
+    },
+    {
+      "id": "ipho_1987_p4",
+      "year": "1987",
+      "country": "East Germany",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Refractive Indices",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1987_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1987_S4.pdf"
+    },
+    {
+      "id": "ipho_1986_p1",
+      "year": "1986",
+      "country": "United Kingdom",
+      "number": "1",
+      "type": "Theory",
+      "title": "Wave Interference",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "interference",
+        "diffraction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1986_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1986_S1.pdf"
+    },
+    {
+      "id": "ipho_1986_p2",
+      "year": "1986",
+      "country": "United Kingdom",
+      "number": "2",
+      "type": "Theory",
+      "title": "Seismic Waves",
+      "topics": [
+        "waves-optics",
+        "astrophysics"
+      ],
+      "subtopics": [
+        "wave-propagation",
+        "observational"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1986_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1986_S2.pdf"
+    },
+    {
+      "id": "ipho_1986_p3",
+      "year": "1986",
+      "country": "United Kingdom",
+      "number": "3",
+      "type": "Theory",
+      "title": "Masses and Springs",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "oscillations"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1986_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1986_S3.pdf"
+    },
+    {
+      "id": "ipho_1986_p4",
+      "year": "1986",
+      "country": "United Kingdom",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Pendant Drop",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1986_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1986_S4.pdf"
+    },
+    {
+      "id": "ipho_1986_p5",
+      "year": "1986",
+      "country": "United Kingdom",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Microcomputer",
+      "topics": [
+        "thermodynamics",
+        "mechanics"
+      ],
+      "subtopics": [
+        "statistical-mechanics",
+        "kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1986_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1986_S5.pdf"
+    },
+    {
+      "id": "ipho_1985_p1",
+      "year": "1985",
+      "country": "Yugoslavia",
+      "number": "1",
+      "type": "Theory",
+      "title": "Antenna Array",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1985_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1985_S1.pdf"
+    },
+    {
+      "id": "ipho_1985_p2",
+      "year": "1985",
+      "country": "Yugoslavia",
+      "number": "2",
+      "type": "Theory",
+      "title": "Hall Effect",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1985_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1985_S2.pdf"
+    },
+    {
+      "id": "ipho_1985_p3",
+      "year": "1985",
+      "country": "Yugoslavia",
+      "number": "3",
+      "type": "Theory",
+      "title": "Escaping the Solar System",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1985_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1985_S3.pdf"
+    },
+    {
+      "id": "ipho_1985_p4",
+      "year": "1985",
+      "country": "Yugoslavia",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Brass Disk",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1985_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1985_S4.pdf"
+    },
+    {
+      "id": "ipho_1985_p5",
+      "year": "1985",
+      "country": "Yugoslavia",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Permanent Magnets",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1985_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1985_S5.pdf"
+    },
+    {
+      "id": "ipho_1984_p1",
+      "year": "1984",
+      "country": "Sweden",
+      "number": "1",
+      "type": "Theory",
+      "title": "Mirage",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1984_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1984_S1.pdf"
+    },
+    {
+      "id": "ipho_1984_p2",
+      "year": "1984",
+      "country": "Sweden",
+      "number": "2",
+      "type": "Theory",
+      "title": "Seiching",
+      "topics": [
+        "mechanics",
+        "waves-optics"
+      ],
+      "subtopics": [
+        "fluids",
+        "oscillations",
+        "wave-propagation"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1984_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1984_S2.pdf"
+    },
+    {
+      "id": "ipho_1984_p3",
+      "year": "1984",
+      "country": "Sweden",
+      "number": "3",
+      "type": "Theory",
+      "title": "Electrical Filter",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1984_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1984_S3.pdf"
+    },
+    {
+      "id": "ipho_1984_p4",
+      "year": "1984",
+      "country": "Sweden",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Diode, Capacitor and Resistor",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1984_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1984_S4.pdf"
+    },
+    {
+      "id": "ipho_1984_p5",
+      "year": "1984",
+      "country": "Sweden",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Glow Discharge Lamp",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "interference",
+        "diffraction"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1984_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1984_S5.pdf"
+    },
+    {
+      "id": "ipho_1983_p1",
+      "year": "1983",
+      "country": "Romania",
+      "number": "1",
+      "type": "Theory",
+      "title": "Jumping Particle",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics",
+        "energy-momentum"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1983_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1983_S1.pdf"
+    },
+    {
+      "id": "ipho_1983_p2",
+      "year": "1983",
+      "country": "Romania",
+      "number": "2",
+      "type": "Theory",
+      "title": "Different kind of Oscillation",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1983_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1983_S2.pdf"
+    },
+    {
+      "id": "ipho_1983_p3",
+      "year": "1983",
+      "country": "Romania",
+      "number": "3",
+      "type": "Theory",
+      "title": "Prisms",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1983_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1983_S3.pdf"
+    },
+    {
+      "id": "ipho_1983_p4",
+      "year": "1983",
+      "country": "Romania",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Compton Scattering",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "quantum-mechanics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1983_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1983_S4.pdf"
+    },
+    {
+      "id": "ipho_1983_p5",
+      "year": "1983",
+      "country": "Romania",
+      "number": "5",
+      "type": "Experimental",
+      "title": "IPhO's logo",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1983_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1983_S5.pdf"
+    },
+    {
+      "id": "ipho_1982_p1",
+      "year": "1982",
+      "country": "West Germany",
+      "number": "1",
+      "type": "Theory",
+      "title": "Fluorescent lamp",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1982_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1982_S1.pdf"
+    },
+    {
+      "id": "ipho_1982_p2",
+      "year": "1982",
+      "country": "West Germany",
+      "number": "2",
+      "type": "Theory",
+      "title": "Oscillating coat hanger",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "oscillations",
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1982_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1982_S2.pdf"
+    },
+    {
+      "id": "ipho_1982_p3",
+      "year": "1982",
+      "country": "West Germany",
+      "number": "3",
+      "type": "Theory",
+      "title": "Hot-air-balloon",
+      "topics": [
+        "thermodynamics",
+        "mechanics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "statics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1982_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1982_S3.pdf"
+    },
+    {
+      "id": "ipho_1982_p4",
+      "year": "1982",
+      "country": "West Germany",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Lens Experiment",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1982_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1982_S4.pdf"
+    },
+    {
+      "id": "ipho_1982_p5",
+      "year": "1982",
+      "country": "West Germany",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Motion of a Rolling Cylinder",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1982_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1982_S5.pdf"
+    },
+    {
+      "id": "ipho_1981_p1",
+      "year": "1981",
+      "country": "Bulgaria",
+      "number": "1",
+      "type": "Theory",
+      "title": "Gas Container Rocket",
+      "topics": [
+        "thermodynamics",
+        "mechanics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "energy-momentum"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1981_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1981_S1.pdf"
+    },
+    {
+      "id": "ipho_1981_p2",
+      "year": "1981",
+      "country": "Bulgaria",
+      "number": "2",
+      "type": "Theory",
+      "title": "Electric Lamp",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1981_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1981_S2.pdf"
+    },
+    {
+      "id": "ipho_1981_p3",
+      "year": "1981",
+      "country": "Bulgaria",
+      "number": "3",
+      "type": "Theory",
+      "title": "Detecting Astronomical Radiowaves",
+      "topics": [
+        "waves-optics",
+        "astrophysics"
+      ],
+      "subtopics": [
+        "interference",
+        "observational"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1981_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1981_S3.pdf"
+    },
+    {
+      "id": "ipho_1981_p4",
+      "year": "1981",
+      "country": "Bulgaria",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Elastic Rubber Cord",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "statics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1981_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1981_S4.pdf"
+    },
+    {
+      "id": "ipho_1979_p1",
+      "year": "1979",
+      "country": "Soviet Union",
+      "number": "1",
+      "type": "Theory",
+      "title": "To the Moon!",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "gravitation",
+        "kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1979_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1979_S1.pdf"
+    },
+    {
+      "id": "ipho_1979_p2",
+      "year": "1979",
+      "country": "Soviet Union",
+      "number": "2",
+      "type": "Theory",
+      "title": "Influence of Humidity on Scales",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1979_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1979_S2.pdf"
+    },
+    {
+      "id": "ipho_1979_p3",
+      "year": "1979",
+      "country": "Soviet Union",
+      "number": "3",
+      "type": "Theory",
+      "title": "Reflectors on the Moon",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "diffraction",
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1979_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1979_S3.pdf"
+    },
+    {
+      "id": "ipho_1979_p4",
+      "year": "1979",
+      "country": "Soviet Union",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Black Box",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1979_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1979_S4.pdf"
+    },
+    {
+      "id": "ipho_1977_p1",
+      "year": "1977",
+      "country": "Czechoslovakia",
+      "number": "1",
+      "type": "Theory",
+      "title": "Otto Cycle",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "heat-engines"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1977_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1977_S1.pdf"
+    },
+    {
+      "id": "ipho_1977_p2",
+      "year": "1977",
+      "country": "Czechoslovakia",
+      "number": "2",
+      "type": "Theory",
+      "title": "Rectangular Soap Film",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1977_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1977_S2.pdf"
+    },
+    {
+      "id": "ipho_1977_p3",
+      "year": "1977",
+      "country": "Czechoslovakia",
+      "number": "3",
+      "type": "Theory",
+      "title": "Electron Gun",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1977_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1977_S3.pdf"
+    },
+    {
+      "id": "ipho_1976_p1",
+      "year": "1976",
+      "country": "Hungary",
+      "number": "1",
+      "type": "Theory",
+      "title": "Spinning Block Inside a Sphere",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1976_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1976_S1.pdf"
+    },
+    {
+      "id": "ipho_1976_p2",
+      "year": "1976",
+      "country": "Hungary",
+      "number": "2",
+      "type": "Theory",
+      "title": "A Valve in a Cylinder",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "heat-engines"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1976_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1976_S2.pdf"
+    },
+    {
+      "id": "ipho_1976_p3",
+      "year": "1976",
+      "country": "Hungary",
+      "number": "3",
+      "type": "Theory",
+      "title": "Air Bubble inside a Glass Sphere",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1976_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1976_S3.pdf"
+    },
+    {
+      "id": "ipho_1976_p4",
+      "year": "1976",
+      "country": "Hungary",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Thermal Properties of the X material",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "heat-transfer",
+        "phase-transitions"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1976_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1976_S4.pdf"
+    },
+    {
+      "id": "ipho_1975_p1",
+      "year": "1975",
+      "country": "East Germany",
+      "number": "1",
+      "type": "Theory",
+      "title": "Rotating Rod",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1975_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1975_S1.pdf"
+    },
+    {
+      "id": "ipho_1975_p2",
+      "year": "1975",
+      "country": "East Germany",
+      "number": "2",
+      "type": "Theory",
+      "title": "Thick Lens",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1975_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1975_S2.pdf"
+    },
+    {
+      "id": "ipho_1975_p3",
+      "year": "1975",
+      "country": "East Germany",
+      "number": "3",
+      "type": "Theory",
+      "title": "Ions in a Magnetic Field",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "magnetostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1975_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1975_S3.pdf"
+    },
+    {
+      "id": "ipho_1975_p4",
+      "year": "1975",
+      "country": "East Germany",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Semiconductor Element",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1975_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1975_S4.pdf"
+    },
+    {
+      "id": "ipho_1974_p1",
+      "year": "1974",
+      "country": "Poland",
+      "number": "1",
+      "type": "Theory",
+      "title": "Hydrogen Atoms Colliding",
+      "topics": [
+        "modern-quantum",
+        "relativity"
+      ],
+      "subtopics": [
+        "atomic",
+        "relativistic-kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1974_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1974_S1.pdf"
+    },
+    {
+      "id": "ipho_1974_p2",
+      "year": "1974",
+      "country": "Poland",
+      "number": "2",
+      "type": "Theory",
+      "title": "Bending Light",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1974_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1974_S2.pdf"
+    },
+    {
+      "id": "ipho_1974_p3",
+      "year": "1974",
+      "country": "Poland",
+      "number": "3",
+      "type": "Theory",
+      "title": "Surviving with Thermodynamics",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "entropy",
+        "gas-laws"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1974_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1974_S3.pdf"
+    },
+    {
+      "id": "ipho_1974_p4",
+      "year": "1974",
+      "country": "Poland",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Diodes in a Black Box",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1974_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1974_S4.pdf"
+    },
+    {
+      "id": "ipho_1972_p1",
+      "year": "1972",
+      "country": "Romania",
+      "number": "1",
+      "type": "Theory",
+      "title": "Three Cylinders",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "rigid-body",
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1972_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1972_S1.pdf"
+    },
+    {
+      "id": "ipho_1972_p2",
+      "year": "1972",
+      "country": "Romania",
+      "number": "2",
+      "type": "Theory",
+      "title": "Molecular Physics",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "kinetic-theory"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1972_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1972_S2.pdf"
+    },
+    {
+      "id": "ipho_1972_p3",
+      "year": "1972",
+      "country": "Romania",
+      "number": "3",
+      "type": "Theory",
+      "title": "Dielectric Liquid",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1972_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1972_S3.pdf"
+    },
+    {
+      "id": "ipho_1972_p4",
+      "year": "1972",
+      "country": "Romania",
+      "number": "4",
+      "type": "Theory",
+      "title": "Geometrical Optics and Interference",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "interference",
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1972_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1972_S4.pdf"
+    },
+    {
+      "id": "ipho_1972_p5",
+      "year": "1972",
+      "country": "Romania",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Two Cylinders",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "statics",
+        "fluids"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1972_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1972_S5.pdf"
+    },
+    {
+      "id": "ipho_1971_p1",
+      "year": "1971",
+      "country": "Bulgaria",
+      "number": "1",
+      "type": "Theory",
+      "title": "Connected Masses on a Prism",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics",
+        "statics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1971_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1971_S1.pdf"
+    },
+    {
+      "id": "ipho_1971_p2",
+      "year": "1971",
+      "country": "Bulgaria",
+      "number": "2",
+      "type": "Theory",
+      "title": "Mercury Barometer",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "gas-laws"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1971_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1971_S2.pdf"
+    },
+    {
+      "id": "ipho_1971_p3",
+      "year": "1971",
+      "country": "Bulgaria",
+      "number": "3",
+      "type": "Theory",
+      "title": "Batteries, Capacitors and Resistors in a Cube",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1971_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1971_S3.pdf"
+    },
+    {
+      "id": "ipho_1971_p4",
+      "year": "1971",
+      "country": "Bulgaria",
+      "number": "4",
+      "type": "Theory",
+      "title": "Spherical Aquarium",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1971_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1971_S4.pdf"
+    },
+    {
+      "id": "ipho_1971_p5",
+      "year": "1971",
+      "country": "Bulgaria",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Rheostat Dissipation",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1971_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1971_S5.pdf"
+    },
+    {
+      "id": "ipho_1970_p1",
+      "year": "1970",
+      "country": "Soviet Union",
+      "number": "1",
+      "type": "Theory",
+      "title": "Carrying a Bar",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1970_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1970_S1.pdf"
+    },
+    {
+      "id": "ipho_1970_p2",
+      "year": "1970",
+      "country": "Soviet Union",
+      "number": "2",
+      "type": "Theory",
+      "title": "A Chemistry Problem (Salt Crystals)",
+      "topics": [
+        "modern-quantum"
+      ],
+      "subtopics": [
+        "solid-state"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1970_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1970_S2.pdf"
+    },
+    {
+      "id": "ipho_1970_p3",
+      "year": "1970",
+      "country": "Soviet Union",
+      "number": "3",
+      "type": "Theory",
+      "title": "Spherical Capacitors",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "electrostatics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1970_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1970_S3.pdf"
+    },
+    {
+      "id": "ipho_1970_p4",
+      "year": "1970",
+      "country": "Soviet Union",
+      "number": "4",
+      "type": "Theory",
+      "title": "A Telescope with a Spherical Mirror",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1970_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1970_S4.pdf"
+    },
+    {
+      "id": "ipho_1970_p5",
+      "year": "1970",
+      "country": "Soviet Union",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Three Lenses",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1970_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1970_S5.pdf"
+    },
+    {
+      "id": "ipho_1969_p1",
+      "year": "1969",
+      "country": "Czechoslovakia",
+      "number": "1",
+      "type": "Theory",
+      "title": "Three Carts",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1969_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1969_S1.pdf"
+    },
+    {
+      "id": "ipho_1969_p2",
+      "year": "1969",
+      "country": "Czechoslovakia",
+      "number": "2",
+      "type": "Theory",
+      "title": "Water inside a Copper Calorimeter",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1969_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1969_S2.pdf"
+    },
+    {
+      "id": "ipho_1969_p3",
+      "year": "1969",
+      "country": "Czechoslovakia",
+      "number": "3",
+      "type": "Theory",
+      "title": "Suspended Charged Ball",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1969_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1969_S3.pdf"
+    },
+    {
+      "id": "ipho_1969_p4",
+      "year": "1969",
+      "country": "Czechoslovakia",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Glass Plate above a Glass Cube",
+      "topics": [],
+      "subtopics": [],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1969_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1969_S4.pdf"
+    },
+    {
+      "id": "ipho_1968_p1",
+      "year": "1968",
+      "country": "Hungary",
+      "number": "1",
+      "type": "Theory",
+      "title": "Block and Cylinder on an Inclined Plane",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "dynamics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1968_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1968_S1.pdf"
+    },
+    {
+      "id": "ipho_1968_p2",
+      "year": "1968",
+      "country": "Hungary",
+      "number": "2",
+      "type": "Theory",
+      "title": "Mixing Toluene",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1968_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1968_S2.pdf"
+    },
+    {
+      "id": "ipho_1968_p3",
+      "year": "1968",
+      "country": "Hungary",
+      "number": "3",
+      "type": "Theory",
+      "title": "Glass Semi-cylinder",
+      "topics": [
+        "waves-optics"
+      ],
+      "subtopics": [
+        "geometrical-optics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1968_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1968_S3.pdf"
+    },
+    {
+      "id": "ipho_1968_p4",
+      "year": "1968",
+      "country": "Hungary",
+      "number": "4",
+      "type": "Experimental",
+      "title": "Three Black Boxes",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1968_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1968_S4.pdf"
+    },
+    {
+      "id": "ipho_1967_p1",
+      "year": "1967",
+      "country": "Poland",
+      "number": "1",
+      "type": "Theory",
+      "title": "Shooting a Ball",
+      "topics": [
+        "mechanics"
+      ],
+      "subtopics": [
+        "energy-momentum",
+        "kinematics"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1967_Q1.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1967_S1.pdf"
+    },
+    {
+      "id": "ipho_1967_p2",
+      "year": "1967",
+      "country": "Poland",
+      "number": "2",
+      "type": "Theory",
+      "title": "Infinite Network of Resistors",
+      "topics": [
+        "electromagnetism"
+      ],
+      "subtopics": [
+        "circuits"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1967_Q2.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1967_S2.pdf"
+    },
+    {
+      "id": "ipho_1967_p3",
+      "year": "1967",
+      "country": "Poland",
+      "number": "3",
+      "type": "Theory",
+      "title": "Heating Balls",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1967_Q3.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1967_S3.pdf"
+    },
+    {
+      "id": "ipho_1967_p4",
+      "year": "1967",
+      "country": "Poland",
+      "number": "4",
+      "type": "Theory",
+      "title": "Heating a Vessel",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "gas-laws",
+        "phase-transitions"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1967_Q4.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1967_S4.pdf"
+    },
+    {
+      "id": "ipho_1967_p5",
+      "year": "1967",
+      "country": "Poland",
+      "number": "5",
+      "type": "Experimental",
+      "title": "Heating Petroleum",
+      "topics": [
+        "thermodynamics"
+      ],
+      "subtopics": [
+        "heat-transfer"
+      ],
+      "problem_url": "https://ipho.olimpicos.net/pdf/IPhO_1967_Q5.pdf",
+      "solution_url": "https://ipho.olimpicos.net/pdf/IPhO_1967_S5.pdf"
+    }
+  ]
+}

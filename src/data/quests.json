@@ -1,0 +1,345 @@
+[
+    {
+        "question": "l = 2 կմ երկարությամբ մեքենաների շարասյունը շարժվում է ուղիղ ճանապարհով v = 36 կմ/ժ արագությամբ: Այն պահին, երբ շարասյան սկիզբը հավասարվում է մոտոցիկլավարի հետ՝ նա սկսում է շարժվել հաստատուն a = 0.1 մ/վ² արագացումով՝ շարասյան վերջի ուղղությամբ: Հասնելով շարասյան վերջին, մոտոցիկլավարը կտրուկ կանգ է առնում և շարժվելով մոդուլով նույն արագացմամբ՝ վերադառնում է շարասյան սկզբին: Անտեսելով շարժման ուղղությունը փոխելու վրա ծախսված ժամանակը, ի՞նչքան ժամանակում է մոտոցիկլավարը հասնում շարասյան վերջին:",
+        "answer": "124",
+        "options": [
+            "≈116 վ",
+            "≈124 վ",
+            "≈132 վ",
+            "≈138 վ"
+        ],
+        "is_bonus": false,
+        "question_en": "A column of vehicles of length l = 2 km moves along a straight road at a speed v = 36 km/h. At the moment when the front of the column aligns with a motorcyclist, he starts moving with a constant acceleration a = 0.1 m/s² towards the rear of the column. Upon reaching the rear, the motorcyclist stops abruptly and, moving with the same acceleration magnitude, returns to the front of the column. Neglecting the time taken to turn around, how long does it take for the motorcyclist to reach the rear of the column?",
+        "options_en": [
+            "≈116 s",
+            "≈124 s",
+            "≈132 s",
+            "≈138 s"
+        ],
+        "question_ru": "Колонна автомобилей длиной l = 2 км движется по прямой дороге со скоростью v = 36 км/ч. В тот момент, когда начало колонны сравняется с мотоциклистом, он начинает движение с постоянным ускорением а = 0,1 м/с² в направлении конца колонны. Достигнув конца колонны, мотоциклист резко останавливается и, двигаясь с модулем с тем же ускорением, возвращается к началу колонны. Не принимая во внимание время, потраченное на смену направления, сколько времени понадобится мотоциклисту, чтобы доехать до конца очереди?",
+        "options_ru": [
+            "≈116 с",
+            "≈124 с",
+            "≈132 с",
+            "≈138 с"
+        ]
+    },
+    {
+        "question": "l = 2 կմ երկարությամբ մեքենաների շարասյունը շարժվում է ուղիղ ճանապարհով v = 36 կմ/ժ արագությամբ: Մոտոցիկլավարը a = 0.1 մ/վ² արագացումով շարասյան սկզբից հասնում է վերջին, ապա նույն արագացմամբ վերադառնում սկզբին: Ինչքա՞ն ժամանակում մոտոցիկլավարը վերադառնում է շարասյան սկզբին (վերջից սկիզբ հասնելու ժամանակը):",
+        "answer": "324",
+        "options": [
+            "≈320 վ",
+            "≈324 վ",
+            "≈330 վ",
+            "≈334 վ"
+        ],
+        "is_bonus": false,
+        "question_en": "A column of vehicles of length l = 2 km moves along a straight road at v = 36 km/h. A motorcyclist moves with a = 0.1 m/s² from front to rear and then returns with the same acceleration. How long does it take for the motorcyclist to return to the front of the column from the rear?",
+        "options_en": [
+            "≈320 s",
+            "≈324 s",
+            "≈330 s",
+            "≈334 s"
+        ],
+        "question_ru": "Колонна автомобилей длиной l = 2 км движется по прямой дороге со скоростью v = 36 км/ч. Мотоциклист доезжает до конца трассы с ускорением а = 0,1 м/с², затем с тем же ускорением возвращается в начало. Сколько времени понадобится мотоциклисту, чтобы вернуться в начало очереди (время от конца до начала)?",
+        "options_ru": [
+            "≈320 с",
+            "≈324 с",
+            "≈330 с",
+            "≈334 с"
+        ]
+    },
+    {
+        "question": "l = 2 կմ երկարությամբ մեքենաների շարասյունը շարժվում է ուղիղ ճանապարհով v = 36 կմ/ժ արագությամբ: Մոտոցիկլավարը a = 0.1 մ/վ² արագացումով շարասյան սկզբից հասնում է վերջին, ապա նույն արագացմամբ վերադառնում սկզբին: Գտեք մոտոցիկլետի անցած ամբողջ ճանապարհը, մինչ նա հասնում է սյունակի սկզբին:",
+        "answer": "6000",
+        "options": [
+            "3500 մ",
+            "4500 մ",
+            "5000 մ",
+            "6000 մ"
+        ],
+        "is_bonus": false,
+        "question_en": "A column of vehicles of length l = 2 km moves at v = 36 km/h. A motorcyclist moves with a = 0.1 m/s² from front to rear and returns to the front with the same acceleration. Find the total distance traveled by the motorcyclist until he reaches the front of the column:",
+        "options_en": [
+            "3500 m",
+            "4500 m",
+            "5000 m",
+            "6000 m"
+        ],
+        "question_ru": "Колонна автомобилей длиной l = 2 км движется по прямой дороге со скоростью v = 36 км/ч. Мотоциклист доезжает до конца трассы с ускорением а = 0,1 м/с², затем с тем же ускорением возвращается в начало. Найдите общий путь, пройденный мотоциклом до начала колонны.",
+        "options_ru": [
+            "3500 м",
+            "4500 м",
+            "5000 м",
+            "6000 м"
+        ]
+    },
+    {
+        "question": "Տրված է մարմնի արագության՝ ժամանակից կախվածության գրաֆիկը (0-ից 2 վ-ում արագությունը գծային աճում է մինչև V_max, 2-ից 4 վ-ում հաստատուն է, 4-ից 8 վ-ում գծային նվազում է մինչև 0): Որքա՞ն է մարմնի շարժման առավելագույն արագությունը, եթե հայտնի է, որ 8 վ-ում նրա անցած ճանապարհը 100 մ է:",
+        "answer": "20",
+        "options": [
+            "15 մ/վ",
+            "20 մ/վ",
+            "25 մ/վ",
+            "30 մ/վ"
+        ],
+        "is_bonus": false,
+        "question_en": "Given the velocity-time graph of a body (velocity increases linearly from 0 to 2 s up to V_max, stays constant from 2 to 4 s, and decreases linearly to 0 from 4 to 8 s). What is the maximum speed of the body if the total distance traveled in 8 s is 100 m?",
+        "options_en": [
+            "15 m/s",
+            "20 m/s",
+            "25 m/s",
+            "30 m/s"
+        ],
+        "question_ru": "Приведен график зависимости скорости тела от времени (от 0 до 2 с скорость возрастает линейно до V_max, от 2 до 4 с она постоянна, от 4 до 8 с линейно уменьшается до 0). Какова максимальная скорость тела, если известно, что расстояние, пройденное им за 8 с, равно 100 м?",
+        "options_ru": [
+            "15 м/с",
+            "20 м/с",
+            "25 м/с",
+            "30 м/с"
+        ]
+    },
+    {
+        "question": "Մարմնի շարժման արագությունը 0-ից 2 վ-ում աճում է մինչև 20 մ/վ, 2-ից 4 վ-ում հաստատուն է (20 մ/վ), իսկ 4-ից 8 վ-ում հավասարաչափ նվազում է մինչև 0: Որոշե՛ք մարմնի արագացման մոդուլը t = 6 վ պահին:",
+        "answer": "5",
+        "options": [
+            "2 մ/վ²",
+            "5 մ/վ²",
+            "7.5 մ/վ²",
+            "12.5 մ/վ²"
+        ],
+        "is_bonus": false,
+        "question_en": "The velocity of a body increases to 20 m/s from 0 to 2 s, remains constant at 20 m/s from 2 to 4 s, and decreases uniformly to 0 from 4 to 8 s. Determine the magnitude of the acceleration of the body at time t = 6 s:",
+        "options_en": [
+            "2 m/s²",
+            "5 m/s²",
+            "7.5 m/s²",
+            "12.5 m/s²"
+        ],
+        "question_ru": "Скорость тела возрастает до 20 м/с от 0 до 2 с, постоянна (20 м/с) от 2 до 4 с и равномерно уменьшается до 0 от 4 до 8 с. Определить модуль ускорения тела в момент времени t = 6 с.",
+        "options_ru": [
+            "2 м/с²",
+            "5 м/с²",
+            "7,5 м/с²",
+            "12,5 м/с²"
+        ]
+    },
+    {
+        "question": "Մարմինը դադարի վիճակից հավասարաչափ արագացող շարժմամբ 2 վ-ում ձեռք է բերում 20 մ/վ արագություն: Ինչքա՞ն է մարմնի արագությունը t = 1.2 վ պահին:",
+        "answer": "12",
+        "options": [
+            "12 մ/վ",
+            "14 մ/վ",
+            "15 մ/վ",
+            "16 մ/վ"
+        ],
+        "is_bonus": false,
+        "question_en": "Starting from rest with uniform acceleration, a body reaches a speed of 20 m/s in 2 s. What is the speed of the body at time t = 1.2 s?",
+        "options_en": [
+            "12 m/s",
+            "14 m/s",
+            "15 m/s",
+            "16 m/s"
+        ],
+        "question_ru": "Тело, движущееся равномерно с ускорением из состояния покоя, за 2 с приобретает скорость 20 м/с. Какова скорость тела в момент времени t = 1,2 с?"
+    },
+    {
+        "question": "Օդում անշարժ օդապարիկից V₀ = 20 մ/վ արագությամբ դեպի վեր նետված գնդակը 8 վ անց ընկավ գետնին: Ազատ անկման արագացումը g = 10 մ/վ² է: Ի՞նչ բարձրության վրա էր օդապարիկը:",
+        "answer": "160",
+        "options": [
+            "100 մ",
+            "140 մ",
+            "160 մ",
+            "180 մ"
+        ],
+        "is_bonus": false,
+        "question_en": "A ball thrown vertically upward with initial speed V₀ = 20 m/s from a stationary hot-air balloon falls to the ground 8 s later. The acceleration due to gravity is g = 10 m/s². At what height was the balloon?",
+        "options_en": [
+            "100 m",
+            "140 m",
+            "160 m",
+            "180 m"
+        ],
+        "question_ru": "Шарик, брошенный вверх с неподвижного аэростата со скоростью V₀ = 20 м/с, упадет на землю через 8 с. Ускорение свободного падения g = 10 м/с². Какова высота воздушного шара?",
+        "options_ru": [
+            "100 м",
+            "140 м",
+            "160 м",
+            "180 м"
+        ]
+    },
+    {
+        "question": "Օդում 160 մ բարձրության վրա անշարժ օդապարիկից V₀ = 20 մ/վ արագությամբ դեպի վեր նետված գնդակը 8 վ անց ընկավ գետնին (g = 10 մ/վ²): Ի՞նչ ճանապարհ անցավ գնդակը մինչև գետնին ընկնելը:",
+        "answer": "200",
+        "options": [
+            "140 մ",
+            "160 մ",
+            "180 մ",
+            "200 մ"
+        ],
+        "is_bonus": false,
+        "question_en": "A ball thrown vertically upward with V₀ = 20 m/s from a stationary balloon at 160 m height hits the ground 8 s later (g = 10 m/s²). What total distance did the ball cover until hitting the ground?",
+        "options_en": [
+            "140 m",
+            "160 m",
+            "180 m",
+            "200 m"
+        ],
+        "question_ru": "Мяч, брошенный вверх с неподвижного аэростата на высоте 160 м со скоростью V₀ = 20 м/с, упадет на землю через 8 с (g = 10 м/с²). Какое расстояние пролетел мяч, прежде чем ударился о землю?"
+    },
+    {
+        "question": "Օդապարիկից նետված գնդակը գետնին է հարվածում 60 մ/վ արագությամբ: Ի՞նչ առավելագույն բարձրության կհասնի գնդակը գետնին հարվածից հետո, եթե կորցնի իր արագության 50%-ը (g = 10 մ/վ²):",
+        "answer": "45",
+        "options": [
+            "30 մ",
+            "40 մ",
+            "45 մ",
+            "60 մ"
+        ],
+        "is_bonus": false,
+        "question_en": "A ball hits the ground at a speed of 60 m/s. What maximum height will the ball reach after bouncing if it loses 50% of its speed upon collision (g = 10 m/s²)?",
+        "options_en": [
+            "30 m",
+            "40 m",
+            "45 m",
+            "60 m"
+        ],
+        "question_ru": "Мяч, брошенный с воздушного шара, упал на землю со скоростью 60 м/с. Какую максимальную высоту поднимет мяч после удара о землю, если он потеряет 50 % своей скорости (g = 10 м/с²)?",
+        "options_ru": [
+            "30 м",
+            "40 м",
+            "45 м",
+            "60 м"
+        ]
+    },
+    {
+        "question": "Թեք հարթությամբ 15 կգ զանգվածով բեռը հավասարաչափ բարձրացնելիս բեռին կապված ուժաչափը ցույց էր տալիս 40 Ն: Թեք հարթությունը ունի 1.8 մ երկարություն և 30 սմ բարձրություն (g = 10 մ/վ²): Ի՞նչ աշխատանք է կատարում ուժը բեռը թեք հարթությունով բարձրացնելիս:",
+        "answer": "72",
+        "options": [
+            "60 Ջ",
+            "68 Ջ",
+            "72 Ջ",
+            "80 Ջ"
+        ],
+        "is_bonus": false,
+        "question_en": "When pulling a load of mass 15 kg uniformly up an inclined plane, a dynamometer attached to the load reads 40 N. The inclined plane has a length of 1.8 m and a height of 30 cm (g = 10 m/s²). What work is done by the applied force?",
+        "options_en": [
+            "60 J",
+            "68 J",
+            "72 J",
+            "80 J"
+        ],
+        "question_ru": "При равномерном подъеме груза массой 15 кг на наклонную плоскость измеритель силы, прикрепленный к грузу, показал силу 40 Н. Наклонная плоскость имеет длину 1,8 м и высоту 30 см (g = 10 м/с²). Какую работу совершает сила при подъеме груза на наклонную плоскость?",
+        "options_ru": [
+            "60 Дж",
+            "68 Дж:",
+            "72 Дж:",
+            "80 Дж"
+        ]
+    },
+    {
+        "question": "Թեք հարթությամբ (երկարությունը՝ 1.8 մ, բարձրությունը՝ 30 սմ) 15 կգ զանգվածով բեռը 40 Ն ուժով բարձրացնելիս հաշվե՛ք թեք հարթության ՕԳԳ-ն (g = 10 մ/վ²):",
+        "answer": "62.5",
+        "options": [
+            "60%",
+            "62.5%",
+            "72.5%",
+            "75%"
+        ],
+        "is_bonus": false,
+        "question_en": "A load of mass 15 kg is lifted up an inclined plane (length 1.8 m, height 30 cm) with an applied force of 40 N (g = 10 m/s²). Calculate the efficiency (η) of the inclined plane:",
+        "options_en": [
+            "60%",
+            "62.5%",
+            "72.5%",
+            "75%"
+        ],
+        "question_ru": "При подъеме груза массой 15 кг с силой 40 Н на наклонную плоскость (длина: 1,8 м, высота: 30 см) рассчитайте ЭГГ наклонной плоскости (g = 10 м/с²).",
+        "options_ru": [
+            "60%",
+            "62,5%",
+            "72,5%",
+            "75%"
+        ]
+    },
+    {
+        "question": "Թեք հարթությամբ (երկարությունը՝ 1.8 մ, բարձրությունը՝ 30 սմ) 15 կգ զանգվածով բեռը 40 Ն ուժով հավասարաչափ բարձրացնելիս հաշվեք մարմնի և թեք հարթության միջև շփման ուժը (g = 10 մ/վ²):",
+        "answer": "15",
+        "options": [
+            "12 Ն",
+            "15 Ն",
+            "20 Ն",
+            "25 Ն"
+        ],
+        "is_bonus": false,
+        "question_en": "When pulling a 15 kg load uniformly up an inclined plane (length 1.8 m, height 30 cm) with a force of 40 N, calculate the friction force between the body and the plane (g = 10 m/s²):",
+        "options_en": [
+            "12 N",
+            "15 N",
+            "20 N",
+            "25 N"
+        ],
+        "question_ru": "Рассчитайте силу трения между телом и наклонной плоскостью (g = 10 м/с²) при подъеме груза массой 15 кг с силой 40 Н по наклонной плоскости (длина: 1,8 м, высота: 30 см).",
+        "options_ru": [
+            "12 Н:",
+            "15 Н:",
+            "20 Н",
+            "25 Н:"
+        ]
+    },
+    {
+        "question": "Լճի հատակին դրված համասեռ, L = 1.25 մ երկարությամբ ձողը բարձրացնում են դրա ծայրին կապած պարանի օգնությամբ: Երբ ձողի ծայրն սկսում է բարձրանալ ջրի հատակից, պարանի լարման ուժը T₁ = 7.5 Ն է, իսկ երբ ձողն ամբողջությամբ հանվել էր ջրից (կախված է պարանից), լարման ուժը T₂ = 20.0 Ն էր: Ջրի խտությունը ρ₀ = 1 գ/սմ³ է, g = 10 մ/վ²: Որքա՞ն է ձողի խտությունը գ/սմ³-ով:",
+        "answer": "4",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "is_bonus": false,
+        "question_en": "A uniform rod of length L = 1.25 m lying on a lake bottom is lifted by a rope tied to its end. When the end starts lifting from the bottom, the tension is T₁ = 7.5 N. When the rod is completely out of the water (suspended by the rope), the tension is T₂ = 20.0 N. Water density ρ₀ = 1 g/cm³, g = 10 m/s². What is the density of the rod in g/cm³?",
+        "options_en": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "question_ru": "Однородный стержень длиной L = 1,25 м, помещенный на дно озера, поднимают за привязанную к его концу веревку. Когда конец стержня начинает подниматься над водой, натяжение веревки Т₁ = 7,5 Н, а при полном выходе стержня из воды (в зависимости от веревки) натяжение Т₂ = 20,0 Н. Плотность воды ρ₀ = 1 г/см³, g = 10 м/с². Какова плотность стержня в г/см³?"
+    },
+    {
+        "question": "Լճի հատակին դրված համասեռ, L = 1.25 մ երկարությամբ ձողի զանգվածը 2 կգ է, իսկ խտությունը՝ 4 գ/սմ³: Ինչքա՞ն է ձողի լայնական կտրվածքի մակերեսը սմ²-ով:",
+        "answer": "4.0",
+        "options": [
+            "2.4",
+            "3.2",
+            "4.0",
+            "6.0"
+        ],
+        "is_bonus": false,
+        "question_en": "A uniform rod of length L = 1.25 m has a mass of 2 kg and a density of 4 g/cm³. What is the cross-sectional area of the rod in cm²?",
+        "options_en": [
+            "2.4",
+            "3.2",
+            "4.0",
+            "6.0"
+        ]
+    },
+    {
+        "question": "Լճի հատակից բարձրացվող 20 Ն ծանրության ուժով և 4 գ/սմ³ խտությամբ համասեռ ձողի համար (լրիվ ընկղմված վիճակում արքիմեդյան ուժը 5 Ն է) ինչքա՞ն կլինի պարանի լարման ուժն այն պահին, երբ ձողն ուղղաձիգ դիրքով լինի կիսով չափ ջրից դուրս:",
+        "answer": "17.5",
+        "options": [
+            "10 Ն",
+            "15 Ն",
+            "17.5 Ն",
+            "19 Ն"
+        ],
+        "is_bonus": true,
+        "question_en": "For a uniform rod of weight 20 N and density 4 g/cm³ (buoyant force when fully submerged is 5 N), what will be the tension in the rope when the rod is in a vertical position with half of its length out of the water?",
+        "options_en": [
+            "10 N",
+            "15 N",
+            "17.5 N",
+            "19 N"
+        ]
+    }
+]

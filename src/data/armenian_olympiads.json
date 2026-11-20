@@ -1,0 +1,4454 @@
+{
+  "source": "olymp.am",
+  "subject": "Physics",
+  "nodes": [
+    {
+      "node_id": "1462",
+      "url": "https://olymp.am/hy/node/1462",
+      "header": "2026[Հանրապետական→Ֆիզիկա]",
+      "title": "Ֆիզիկայի հանրապետական փուլի առաջադրանքները",
+      "year": "2026",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-HP26-1.pdf",
+          "filename": "Ar-Fizika-9das-HP26-1.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-HP26-1.pdf",
+          "filename": "Ar-Fizika-10das-HP26-1.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-HP26-1.pdf",
+          "filename": "Ar-Fizika-11das-HP26-1.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-HP26-1.pdf",
+          "filename": "Ar-Fizika-12das-HP26-1.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ /փորձնական փուլ/ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-Porc-9das-HP26.pdf",
+          "filename": "Ar-Fizika-Porc-9das-HP26.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Առաջադրանքներ /փորձնական փուլ/ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-Porc-10das-HP26.pdf",
+          "filename": "Ar-Fizika-Porc-10das-HP26.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Առաջադրանքներ /փորձնական փուլ/ - 11-12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-Porc-11-12das-HP26.pdf",
+          "filename": "Ar-Fizika-Porc-11-12das-HP26.pdf",
+          "grade": "11-12-րդ դաս.",
+          "file_type": "Experimental"
+        }
+      ]
+    },
+    {
+      "node_id": "1416",
+      "url": "https://olymp.am/hy/node/1416",
+      "header": "2026[Մարզային→Ֆիզիկա]",
+      "title": "Ֆիզիկայի մարզային փուլի առաջադրանքները, լուծումները և գնահատման չափանիշները",
+      "year": "2026",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Առաջադրանքները, լուծումներ և չափանիշներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Solutions-Fizika-10das-2026MP.pdf",
+          "filename": "Ar-Solutions-Fizika-10das-2026MP.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները, լուծումներ և չափանիշներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Solutions-Fizika-11das-2026MP.pdf",
+          "filename": "Ar-Solutions-Fizika-11das-2026MP.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները, լուծումներ և չափանիշներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Solutions-Fizika-12das-2026MP.pdf",
+          "filename": "Ar-Solutions-Fizika-12das-2026MP.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները, լուծումներ և չափանիշներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Solutions-Fizika-9das-2026MP-1.pdf",
+          "filename": "Ar-Solutions-Fizika-9das-2026MP-1.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        }
+      ]
+    },
+    {
+      "node_id": "1365",
+      "url": "https://olymp.am/hy/node/1365",
+      "header": "2025[Դպրոցական→Ֆիզիկա]",
+      "title": "Ֆիզիկայի օլիմպիադայի դպրոցական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ, ԼՈՒԾՈՒՄՆԵՐԸ և ՊԱՏԱՍԽԱՆՆԵՐԸ",
+      "year": "2025",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2026.pdf",
+          "filename": "Ar-Fizika-9das-2026.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2026.pdf",
+          "filename": "Ar-Fizika-10das-2026.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարաններ",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2026.pdf",
+          "filename": "Ar-Fizika-11das-2026.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2026.pdf",
+          "filename": "Ar-Fizika-12das-2026.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լուծումներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-9das-2026.pdf",
+          "filename": "Solutions-Fizika-9das-2026.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-10das-2026.pdf",
+          "filename": "Solutions-Fizika-10das-2026.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-11das-2026-1.pdf",
+          "filename": "Solutions-Fizika-11das-2026-1.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-12das-2026-1.pdf",
+          "filename": "Solutions-Fizika-12das-2026-1.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Պատասխաններ՝ 9-12-րդ դասարաններ",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-DP2026-2.pdf",
+          "filename": "Pat-Fizika-DP2026-2.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխաններ՝ 9-12-րդ դասարաններ",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-DP2026-3.pdf",
+          "filename": "Pat-Fizika-DP2026-3.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "1259",
+      "url": "https://olymp.am/hy/node/1259",
+      "header": "2025[Հանրապետական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ և ԼՈՒԾՈՒՄՆԵՐԸ",
+      "year": "2025",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-HP25.pdf",
+          "filename": "Ar-Fizika-9das-HP25.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-HP25.pdf",
+          "filename": "Ar-Fizika-10das-HP25.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-HP25.pdf",
+          "filename": "Ar-Fizika-11das-HP25.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները՝ 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-HP25-1.pdf",
+          "filename": "Ar-Fizika-12das-HP25-1.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "1201",
+      "url": "https://olymp.am/hy/node/1201",
+      "header": "2025[Մարզային→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ մարզային փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ և ԼՈՒԾՈՒՄՆԵՐԸ",
+      "year": "2025",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2025-MP.pdf",
+          "filename": "Ar-Fizika-9das-2025-MP.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2025-MP.pdf",
+          "filename": "Ar-Fizika-10das-2025-MP.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները՝ 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2025-MP.pdf",
+          "filename": "Ar-Fizika-11das-2025-MP.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները՝ 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2025-MP.pdf",
+          "filename": "Ar-Fizika-12das-2025-MP.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լուծումներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-9das-2025MP-1.pdf",
+          "filename": "Solutions-Fizika-9das-2025MP-1.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-10das-2025MP-1.pdf",
+          "filename": "Solutions-Fizika-10das-2025MP-1.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-11das-2025MP-1.pdf",
+          "filename": "Solutions-Fizika-11das-2025MP-1.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-12das-2025MP-1.pdf",
+          "filename": "Solutions-Fizika-12das-2025MP-1.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "1157",
+      "url": "https://olymp.am/hy/node/1157",
+      "header": "2024[Դպրոցական→Ֆիզիկա]",
+      "title": "Ֆիզիկա, Դպրոցական փուլ - առաջադրանքները, պատասխանները և լուծումները",
+      "year": "2024",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2025.pdf",
+          "filename": "Ar-Fizika-9das-2025.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2025.pdf",
+          "filename": "Ar-Fizika-10das-2025.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2025.pdf",
+          "filename": "Ar-Fizika-11das-2025.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2025.pdf",
+          "filename": "Ar-Fizika-12das-2025.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխաններ - 9-12-րդ դասարաններ",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-DP2025.pdf",
+          "filename": "Pat-Fizika-DP2025.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լուծումները - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-9das-2025.pdf",
+          "filename": "Solutions-Fizika-9das-2025.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-10das-2025.pdf",
+          "filename": "Solutions-Fizika-10das-2025.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-11das-2025.pdf",
+          "filename": "Solutions-Fizika-11das-2025.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-12das-2025.pdf",
+          "filename": "Solutions-Fizika-12das-2025.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "1071",
+      "url": "https://olymp.am/hy/node/1071",
+      "header": "2024[Հանրապետական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ, ԼՈՒԾՈՒՄՆԵՐԸ և ԳՆԱՀԱՏՄԱՆ ՉԱՓԱՆԻՇՆԵՐԸ",
+      "year": "2024",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ, լուծումները և գն․ չափանիշները - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-9das-HP2024.pdf",
+          "filename": "ArPat-Fizika-9das-HP2024.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ, լուծումները և գն․ չափանիշները - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-10das-HP2024.pdf",
+          "filename": "ArPat-Fizika-10das-HP2024.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ, լուծումները և գն․ չափանիշները - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-11das-HP2024-2.pdf",
+          "filename": "ArPat-Fizika-11das-HP2024-2.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ, լուծումները և գն․ չափանիշները - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-12das-HP2024-1.pdf",
+          "filename": "ArPat-Fizika-12das-HP2024-1.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքը /փորձնական փուլ/ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-Porc-HP2024.pdf",
+          "filename": "Ar-Fizika-9das-Porc-HP2024.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Առաջադրանքները /փորձնական փուլ/ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-Porc-HP2024.pdf",
+          "filename": "Ar-Fizika-10das-Porc-HP2024.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Առաջադրանքը /փորձնական փուլ/ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-Porc-HP2024.pdf",
+          "filename": "Ar-Fizika-11das-Porc-HP2024.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Առաջադրանքը /փորձնական փուլ/ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-Porc-HP2024.pdf",
+          "filename": "Ar-Fizika-12das-Porc-HP2024.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Experimental"
+        }
+      ]
+    },
+    {
+      "node_id": "1020",
+      "url": "https://olymp.am/hy/node/1020",
+      "header": "2024[Մարզային→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ մարզային փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ և ԼՈՒԾՈՒՄՆԵՐԸ",
+      "year": "2024",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2024-MP.pdf",
+          "filename": "Ar-Fizika-9das-2024-MP.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2024-MP.pdf",
+          "filename": "Ar-Fizika-10das-2024-MP.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները՝ 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2024-MP.pdf",
+          "filename": "Ar-Fizika-11das-2024-MP.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները՝ 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2024-MP.pdf",
+          "filename": "Ar-Fizika-12das-2024-MP.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լուծումները և գնահատման չափանիշները - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-9das-2024MP-2.pdf",
+          "filename": "Solutions-Fizika-9das-2024MP-2.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները և գնահատման չափանիշները - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-10das-2024MP-2.pdf",
+          "filename": "Solutions-Fizika-10das-2024MP-2.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները և գնահատման չափանիշները - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-11das-2024MP-2.pdf",
+          "filename": "Solutions-Fizika-11das-2024MP-2.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները և գնահատման չափանիշները - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-12das-2024MP-2.pdf",
+          "filename": "Solutions-Fizika-12das-2024MP-2.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "996",
+      "url": "https://olymp.am/hy/node/996",
+      "header": "2023[Դպրոցական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ դպրոցական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ - 2023-2024",
+      "year": "2023",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2024.pdf",
+          "filename": "Ar-Fizika-9das-2024.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները՝ 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2024.pdf",
+          "filename": "Ar-Fizika-10das-2024.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2024.pdf",
+          "filename": "Ar-Fizika-11das-2024.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2024.pdf",
+          "filename": "Ar-Fizika-12das-2024.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխանները՝ 9-12-րդ դասարաններ",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-DP2024.pdf",
+          "filename": "Pat-Fizika-DP2024.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լուծումները՝ 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-10das-2024.pdf",
+          "filename": "Solutions-Fizika-10das-2024.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները՝ 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-11das-2024.pdf",
+          "filename": "Solutions-Fizika-11das-2024.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները՝ 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-12das-2024.pdf",
+          "filename": "Solutions-Fizika-12das-2024.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները՝ 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-9das-2024-1.pdf",
+          "filename": "Solutions-Fizika-9das-2024-1.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "991",
+      "url": "https://olymp.am/hy/node/991",
+      "header": "2023[Դպրոցական→Մաթեմատիկա]",
+      "title": "ԴՊՐՈՑԱԿԱՆՆԵՐԻ ԱՌԱՐԿԱՅԱԿԱՆ ՕԼԻՄՊԻԱԴԱՆԵՐԻ ԴՊՐՈՑԱԿԱՆ ՓՈՒԼԻ ՄԱՍՆԱԿԻՑՆԵՐԻ ՑՈՒՑԱԿՆԵՐԸ - 2023/2024",
+      "year": "2023",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Արարատ - մաթեմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Math24-DP-2.pdf",
+          "filename": "Ararat-Math24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - մաթեմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Math24-DP-2.pdf",
+          "filename": "Armavir-Math24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - մաթեմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Math24-DP-2.pdf",
+          "filename": "Gegharkunik-Math24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք  - մաթեմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Math24-DP-2.pdf",
+          "filename": "Kotayk-Math24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - մաթեմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Math24-DP-2.pdf",
+          "filename": "Lori-Math24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - մաթեմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Math24-DP-2.pdf",
+          "filename": "Shirak-Math24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - մաթեմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Math24-DP-2.pdf",
+          "filename": "Syunik-Math24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - մաթեմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Math24-DP-2.pdf",
+          "filename": "Tavush-Math24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - մաթեմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Math24-DP-2.pdf",
+          "filename": "VayotsDzor-Math24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - մաթեմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Math24-DP-2.pdf",
+          "filename": "Yerevan-Math24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Kensab24-DP-2.pdf",
+          "filename": "Aragatsotn-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Kensab24-DP-2.pdf",
+          "filename": "Ararat-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Kensab24-DP-2.pdf",
+          "filename": "Armavir-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Kensab24-DP-2.pdf",
+          "filename": "Gegharkunik-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Kensab24-DP-2.pdf",
+          "filename": "Kotayk-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Kensab24-DP-2.pdf",
+          "filename": "Lori-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Kensab24-DP-2.pdf",
+          "filename": "Shirak-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Kensab24-DP-2.pdf",
+          "filename": "Syunik-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Kensab24-DP-2.pdf",
+          "filename": "Tavush-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Kensab24-DP-2.pdf",
+          "filename": "VayotsDzor-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - կենսաբանություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Kensab24-DP-2.pdf",
+          "filename": "Yerevan-Kensab24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Ashxar24-DP-2.pdf",
+          "filename": "Aragatsotn-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Ashxar24-DP-2.pdf",
+          "filename": "Ararat-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Ashxar24-DP-2.pdf",
+          "filename": "Armavir-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Ashxar24-DP-2.pdf",
+          "filename": "Gegharkunik-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Ashxar24-DP-2.pdf",
+          "filename": "Kotayk-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Ashxar24-DP-2.pdf",
+          "filename": "Lori-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Ashxar24-DP-2.pdf",
+          "filename": "Shirak-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Ashxar24-DP-2.pdf",
+          "filename": "Syunik-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Ashxar24-DP-2.pdf",
+          "filename": "Tavush-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Ashxar24-DP-2.pdf",
+          "filename": "VayotsDzor-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - աշխարհագրություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Ashxar24-DP-2.pdf",
+          "filename": "Yerevan-Ashxar24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Fizika24-DP-2.pdf",
+          "filename": "Aragatsotn-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Fizika24-DP-2.pdf",
+          "filename": "Ararat-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Fizika24-DP-2.pdf",
+          "filename": "Armavir-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Fizika24-DP-2.pdf",
+          "filename": "Gegharkunik-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Fizika24-DP-2.pdf",
+          "filename": "Kotayk-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Fizika24-DP-2.pdf",
+          "filename": "Lori-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Fizika24-DP-2.pdf",
+          "filename": "Shirak-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Fizika24-DP-2.pdf",
+          "filename": "Syunik-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Fizika24-DP-2.pdf",
+          "filename": "Tavush-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Fizika24-DP-2.pdf",
+          "filename": "VayotsDzor-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - ֆիզիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Fizika24-DP-2.pdf",
+          "filename": "Yerevan-Fizika24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Qimia24-DP-2.pdf",
+          "filename": "Aragatsotn-Qimia24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Qimia24-DP-2.pdf",
+          "filename": "Ararat-Qimia24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Qimia24-DP-2.pdf",
+          "filename": "Armavir-Qimia24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Qimia24-DP-2.pdf",
+          "filename": "Gegharkunik-Qimia24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Qimia24-DP-2.pdf",
+          "filename": "Kotayk-Qimia24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Qimia24-DP-2.pdf",
+          "filename": "Lori-Qimia24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Qimia24-DP-2.pdf",
+          "filename": "Shirak-Qimia24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Qimia24-DP-2.pdf",
+          "filename": "Syunik-Qimia24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Qimia24-DP-2.pdf",
+          "filename": "Tavush-Qimia24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Qimia24-DP-2-1.pdf",
+          "filename": "VayotsDzor-Qimia24-DP-2-1.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - քիմիա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Qimia24-DP-2.pdf",
+          "filename": "Yerevan-Qimia24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Astgh24-DP-2.pdf",
+          "filename": "Aragatsotn-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Astgh24-DP-2.pdf",
+          "filename": "Ararat-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Astgh24-DP-2.pdf",
+          "filename": "Armavir-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Astgh24-DP-2.pdf",
+          "filename": "Gegharkunik-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Astgh24-DP-2.pdf",
+          "filename": "Kotayk-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Astgh24-DP-2.pdf",
+          "filename": "Lori-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Astgh24-DP-2.pdf",
+          "filename": "Shirak-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Astgh24-DP-2.pdf",
+          "filename": "Syunik-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Astgh24-DP-2.pdf",
+          "filename": "Tavush-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Astgh24-DP-2.pdf",
+          "filename": "VayotsDzor-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - աստղագիտություն (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Astgh24-DP-2.pdf",
+          "filename": "Yerevan-Astgh24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Inform24-DP-2.pdf",
+          "filename": "Aragatsotn-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Inform24-DP-2.pdf",
+          "filename": "Ararat-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Inform24-DP-2.pdf",
+          "filename": "Armavir-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Inform24-DP-2.pdf",
+          "filename": "Gegharkunik-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Inform24-DP-2.pdf",
+          "filename": "Kotayk-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Inform24-DP-2.pdf",
+          "filename": "Lori-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Inform24-DP-2.pdf",
+          "filename": "Shirak-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Inform24-DP-2.pdf",
+          "filename": "Syunik-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Inform24-DP-2.pdf",
+          "filename": "Tavush-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Inform24-DP-2.pdf",
+          "filename": "VayotsDzor-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երեվան - ինֆորմատիկա (թարմացված)",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Inform24-DP-2.pdf",
+          "filename": "Yerevan-Inform24-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "955",
+      "url": "https://olymp.am/hy/node/955",
+      "header": "2023[Հանրապետական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլ - 2023",
+      "year": "2023",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Առաջադրանքները և լուծումները - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-9das-HP2023-1.pdf",
+          "filename": "ArPat-Fizika-9das-HP2023-1.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-10das-HP2023-1.pdf",
+          "filename": "ArPat-Fizika-10das-HP2023-1.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-11das-HP2023-1.pdf",
+          "filename": "ArPat-Fizika-11das-HP2023-1.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-12das-HP2023-1.pdf",
+          "filename": "ArPat-Fizika-12das-HP2023-1.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ-փորձնական փուլ",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Porc-Fizika-9-12das-HP2023.pdf",
+          "filename": "Ar-Porc-Fizika-9-12das-HP2023.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Experimental"
+        }
+      ]
+    },
+    {
+      "node_id": "933",
+      "url": "https://olymp.am/hy/node/933",
+      "header": "2023[Մարզային→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ մարզային փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ, ԼՈՒԾՈՒՄՆԵՐԸ, գանհատման չափանիշները և ՄԱՍՆԱԿԻՑՆԵՐԻ ՑՈՒՑԱԿՆԵՐԸ",
+      "year": "2023",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Առաջադրանքները՝ 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2023-MP.pdf",
+          "filename": "Ar-Fizika-9das-2023-MP.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները՝ 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2023-MP.pdf",
+          "filename": "Ar-Fizika-10das-2023-MP.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները՝ 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2023-MP.pdf",
+          "filename": "Ar-Fizika-11das-2023-MP.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները՝ 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2023-MP.pdf",
+          "filename": "Ar-Fizika-12das-2023-MP.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լուծումները և գնահատման չափանիշները - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-9das-2023MP.pdf",
+          "filename": "Solutions-Fizika-9das-2023MP.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները և գնահատման չափանիշները - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-10das-2023MP.pdf",
+          "filename": "Solutions-Fizika-10das-2023MP.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները և գնահատման չափանիշները - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-11das-2023MP.pdf",
+          "filename": "Solutions-Fizika-11das-2023MP.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումները և գնահատման չափանիշները - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Solutions-Fizika-12das-2023MP-1.pdf",
+          "filename": "Solutions-Fizika-12das-2023MP-1.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "917",
+      "url": "https://olymp.am/hy/node/917",
+      "header": "2022[Դպրոցական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ օլիմպիադայի դպրոցական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ և ՊԱՏԱՍԽԱՆՆԵՐԸ",
+      "year": "2022",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2023.pdf",
+          "filename": "Ar-Fizika-9das-2023.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2023.pdf",
+          "filename": "Ar-Fizika-10das-2023.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2023.pdf",
+          "filename": "Ar-Fizika-11das-2023.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները՝ 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2023.pdf",
+          "filename": "Ar-Fizika-12das-2023.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխաններ՝ 9-12-րդ դասարաններ",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-DP2023-4.pdf",
+          "filename": "Pat-Fizika-DP2023-4.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "861",
+      "url": "https://olymp.am/hy/node/861",
+      "header": "2022[Հանրապետական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլ - 2022",
+      "year": "2022",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-9das-HP22-1.pdf",
+          "filename": "ArPat-Fizika-9das-HP22-1.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-10das-HP22-1.pdf",
+          "filename": "ArPat-Fizika-10das-HP22-1.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-11das-HP22-1.pdf",
+          "filename": "ArPat-Fizika-11das-HP22-1.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-12das-HP22-1.pdf",
+          "filename": "ArPat-Fizika-12das-HP22-1.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        }
+      ]
+    },
+    {
+      "node_id": "855",
+      "url": "https://olymp.am/hy/node/855",
+      "header": "2022[Մարզային→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ մարզային փուլի ՄԱՍՆԱԿԻՑՆԵՐԻ ՑՈՒՑԱԿՆԵՐԸ",
+      "year": "2022",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Առաջադրանքները և լուծումները՝ 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPa-Fizika-9das-2022-MP-2.pdf",
+          "filename": "ArPa-Fizika-9das-2022-MP-2.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները՝ 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPa-Fizika-10das-2022-MP-2.pdf",
+          "filename": "ArPa-Fizika-10das-2022-MP-2.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները՝ 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPa-Fizika-11das-2022-MP-2.pdf",
+          "filename": "ArPa-Fizika-11das-2022-MP-2.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները՝ 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPa-Fizika-12das-2022-MP-2.pdf",
+          "filename": "ArPa-Fizika-12das-2022-MP-2.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        }
+      ]
+    },
+    {
+      "node_id": "841",
+      "url": "https://olymp.am/hy/node/841",
+      "header": "2021[Դպրոցական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ օլիմպիադայի դպրոցական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ - 2021-2022",
+      "year": "2021",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2022_0.pdf",
+          "filename": "Ar-Fizika-9das-2022_0.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2022_0.pdf",
+          "filename": "Ar-Fizika-10das-2022_0.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2022_0.pdf",
+          "filename": "Ar-Fizika-11das-2022_0.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2022_0.pdf",
+          "filename": "Ar-Fizika-12das-2022_0.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխաններ - 9-12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-9-12das-2022-1.pdf",
+          "filename": "Pat-Fizika-9-12das-2022-1.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "840",
+      "url": "https://olymp.am/hy/node/840",
+      "header": "2021[Դպրոցական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ օլիմպիադայի դպրոցական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ - 2021-2022",
+      "year": "2021",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2022.pdf",
+          "filename": "Ar-Fizika-9das-2022.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2022.pdf",
+          "filename": "Ar-Fizika-10das-2022.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2022.pdf",
+          "filename": "Ar-Fizika-11das-2022.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2022.pdf",
+          "filename": "Ar-Fizika-12das-2022.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "835",
+      "url": "https://olymp.am/hy/node/835",
+      "header": "2021[Դպրոցական→Մաթեմատիկա]",
+      "title": "Դպրոցական փուլի ցուցակները - 2021-2022",
+      "year": "2021",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Արագածոտն - Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Kensab22-DP.pdf",
+          "filename": "Aragatsotn-Kensab22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ -  Ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Inform22-DP.pdf",
+          "filename": "Ararat-Inform22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր -  Ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Inform22-DP.pdf",
+          "filename": "Armavir-Inform22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք -  Ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Inform22-DP.pdf",
+          "filename": "Gegharkunik-Inform22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Qimia22-DP.pdf",
+          "filename": "Gegharkunik-Qimia22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք -  Ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Inform22-DP.pdf",
+          "filename": "Kotayk-Inform22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի -  Ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Inform22-DP.pdf",
+          "filename": "Lori-Inform22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ -  Ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Inform22-DP.pdf",
+          "filename": "Shirak-Inform22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք -  Ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Inform22-DP.pdf",
+          "filename": "Syunik-Inform22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ -  Ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Inform22-DP.pdf",
+          "filename": "Tavush-Inform22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր -  Ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Inform22-DP.pdf",
+          "filename": "VayotsDzor-Inform22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան -  Ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Inform22-DP.pdf",
+          "filename": "Yerevan-Inform22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան -  Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Math22-DP.pdf",
+          "filename": "Yerevan-Math22-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Math22-DP-2.pdf",
+          "filename": "Aragatsotn-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Math22-DP-2.pdf",
+          "filename": "Ararat-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Math22-DP-2.pdf",
+          "filename": "Armavir-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Math22-DP-2.pdf",
+          "filename": "Gegharkunik-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Math22-DP-2.pdf",
+          "filename": "Kotayk-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Math22-DP-2.pdf",
+          "filename": "Lori-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Math22-DP-2.pdf",
+          "filename": "Shirak-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Math22-DP-2.pdf",
+          "filename": "Syunik-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Math22-DP-2.pdf",
+          "filename": "Tavush-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Math22-DP-2.pdf",
+          "filename": "VayotsDzor-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - Մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Math22-DP-2.pdf",
+          "filename": "Yerevan-Math22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Kensab22-DP-2.pdf",
+          "filename": "Aragatsotn-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Kensab22-DP-2.pdf",
+          "filename": "Ararat-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Kensab22-DP-2.pdf",
+          "filename": "Armavir-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Kensab22-DP-2.pdf",
+          "filename": "Gegharkunik-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Kensab22-DP-2.pdf",
+          "filename": "Kotayk-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Kensab22-DP-2.pdf",
+          "filename": "Lori-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Kensab22-DP-2.pdf",
+          "filename": "Shirak-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Kensab22-DP-2.pdf",
+          "filename": "Syunik-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Kensab22-DP-2.pdf",
+          "filename": "Tavush-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Kensab22-DP-2.pdf",
+          "filename": "VayotsDzor-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան -  Կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Kensab22-DP-2.pdf",
+          "filename": "Yerevan-Kensab22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Ashkhar22-DP-2.pdf",
+          "filename": "Aragatsotn-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Ashkhar22-DP-2.pdf",
+          "filename": "Ararat-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Ashkhar22-DP-2.pdf",
+          "filename": "Armavir-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Ashkhar22-DP-2.pdf",
+          "filename": "Gegharkunik-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Ashkhar22-DP-2.pdf",
+          "filename": "Kotayk-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Ashkhar22-DP-2.pdf",
+          "filename": "Lori-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Ashkhar22-DP-2.pdf",
+          "filename": "Shirak-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Ashkhar22-DP-2.pdf",
+          "filename": "Syunik-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Ashkhar22-DP-2.pdf",
+          "filename": "Tavush-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Ashkhar22-DP-2.pdf",
+          "filename": "VayotsDzor-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան -  Աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Ashkhar22-DP-2.pdf",
+          "filename": "Yerevan-Ashkhar22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Fizika22-DP-2.pdf",
+          "filename": "Aragatsotn-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Fizika22-DP-2.pdf",
+          "filename": "Ararat-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Fizika22-DP-2.pdf",
+          "filename": "Armavir-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Fizika22-DP-2.pdf",
+          "filename": "Gegharkunik-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Fizika22-DP-2.pdf",
+          "filename": "Kotayk-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Fizika22-DP-2.pdf",
+          "filename": "Lori-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Fizika22-DP-2.pdf",
+          "filename": "Shirak-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Fizika22-DP-2.pdf",
+          "filename": "Syunik-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Fizika22-DP-2.pdf",
+          "filename": "Tavush-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Fizika22-DP-2.pdf",
+          "filename": "VayotsDzor-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - Ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Fizika22-DP-2.pdf",
+          "filename": "Yerevan-Fizika22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Qimia22-DP-2.pdf",
+          "filename": "Ararat-Qimia22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Qimia22-DP-2.pdf",
+          "filename": "Armavir-Qimia22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Qimia22-DP-2.pdf",
+          "filename": "Gegharkunik-Qimia22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Qimia22-DP-2.pdf",
+          "filename": "Kotayk-Qimia22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Qimia22-DP-2.pdf",
+          "filename": "Lori-Qimia22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Qimia22-DP-2.pdf",
+          "filename": "Shirak-Qimia22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Qimia22-DP-2.pdf",
+          "filename": "Syunik-Qimia22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Qimia22-DP-2.pdf",
+          "filename": "Tavush-Qimia22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Qimia22-DP-2.pdf",
+          "filename": "VayotsDzor-Qimia22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Qimia22-DP-2.pdf",
+          "filename": "Yerevan-Qimia22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն -  Քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Qimia22-DP-2_0.pdf",
+          "filename": "Aragatsotn-Qimia22-DP-2_0.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Astgh22-DP-2.pdf",
+          "filename": "Aragatsotn-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Astgh22-DP-2.pdf",
+          "filename": "Ararat-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Astgh22-DP-2.pdf",
+          "filename": "Armavir-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Astgh22-DP-2.pdf",
+          "filename": "Gegharkunik-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Astgh22-DP-2.pdf",
+          "filename": "Kotayk-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Astgh22-DP-2.pdf",
+          "filename": "Lori-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Astgh22-DP-2.pdf",
+          "filename": "Shirak-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Astgh22-DP-2.pdf",
+          "filename": "Syunik-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Astgh22-DP-2.pdf",
+          "filename": "Tavush-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Astgh22-DP-2.pdf",
+          "filename": "VayotsDzor-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - Աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Astgh22-DP-2.pdf",
+          "filename": "Yerevan-Astgh22-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "800",
+      "url": "https://olymp.am/hy/node/800",
+      "header": "2021[Հանրապետական→Ֆիզիկա]",
+      "title": "Ֆիզիկայի հանրապետական փուլ, 2020-2021",
+      "year": "2021",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-9das-HP21.pdf",
+          "filename": "ArPat-Fizika-9das-HP21.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-10das-HP21.pdf",
+          "filename": "ArPat-Fizika-10das-HP21.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-11das-HP21.pdf",
+          "filename": "ArPat-Fizika-11das-HP21.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-12das-HP21.pdf",
+          "filename": "ArPat-Fizika-12das-HP21.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        }
+      ]
+    },
+    {
+      "node_id": "786",
+      "url": "https://olymp.am/hy/node/786",
+      "header": "2021[Մարզային→Ֆիզիկա]",
+      "title": "Ֆիզիկայի մարզային փուլ, 2020-2021",
+      "year": "2021",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Առաջադրանքները և լուծումները - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Pat-Fizika-9das-2021-MP1.pdf",
+          "filename": "Ar-Pat-Fizika-9das-2021-MP1.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Pat-Fizika-10das-2021-MP1.pdf",
+          "filename": "Ar-Pat-Fizika-10das-2021-MP1.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Pat-Fizika-11das-2021-MP1.pdf",
+          "filename": "Ar-Pat-Fizika-11das-2021-MP1.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Pat-Fizika-12das-2021-MP1.pdf",
+          "filename": "Ar-Pat-Fizika-12das-2021-MP1.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        }
+      ]
+    },
+    {
+      "node_id": "770",
+      "url": "https://olymp.am/hy/node/770",
+      "header": "2020[Դպրոցական→Ֆիզիկա]",
+      "title": "Ֆիզիկայի դպրոցական փուլի առաջադրանքներ, 2020-2021",
+      "year": "2020",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2021.pdf",
+          "filename": "Ar-Fizika-9das-2021.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2021.pdf",
+          "filename": "Ar-Fizika-10das-2021.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2021-1.pdf",
+          "filename": "Ar-Fizika-11das-2021-1.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2021-1.pdf",
+          "filename": "Ar-Fizika-12das-2021-1.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխաններ - 9-12-րդ դասարաններ",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-2021-2.pdf",
+          "filename": "Pat-Fizika-2021-2.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "769",
+      "url": "https://olymp.am/hy/node/769",
+      "header": "2020[Հանրապետական→Մաթեմատիկա]",
+      "title": "ՀՀ ԿԳՄՍ նախարարի 15․12․2020թ. 1764-Ա/2  հրաման /ժամանակացույց/",
+      "year": "2020",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "ՀՀ ԿԳՄՍ նախարարի 15․12․2020թ. 1764-Ա/2  հրաման /ժամանակացույց/",
+          "url": "https://olymp.am/sites/default/file/problems/HRAMAN-Zhamanakacujc-1764-%D4%B1-2-15.12.2020.pdf",
+          "filename": "HRAMAN-Zhamanakacujc-1764-%D4%B1-2-15.12.2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "767",
+      "url": "https://olymp.am/hy/node/767",
+      "header": "2020[Դպրոցական→Մաթեմատիկա]",
+      "title": "Դպրոցական փուլի մասնակիցների ցուցակները, 2020-2021",
+      "year": "2020",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Արագածոտն - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Ashkhar21-DP.pdf",
+          "filename": "Aragatsotn-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Astgh21-DP.pdf",
+          "filename": "Aragatsotn-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Fizika21-DP.pdf",
+          "filename": "Aragatsotn-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Inform21-DP.pdf",
+          "filename": "Aragatsotn-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Math21-DP.pdf",
+          "filename": "Aragatsotn-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Ashkhar21-DP.pdf",
+          "filename": "Ararat-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Astgh21-DP.pdf",
+          "filename": "Ararat-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Fizika21-DP.pdf",
+          "filename": "Ararat-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Inform21-DP.pdf",
+          "filename": "Ararat-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Math21-DP.pdf",
+          "filename": "Ararat-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Ashkhar21-DP.pdf",
+          "filename": "Armavir-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Astgh21-DP.pdf",
+          "filename": "Armavir-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Fizika21-DP.pdf",
+          "filename": "Armavir-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Inform21-DP.pdf",
+          "filename": "Armavir-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Math21-DP.pdf",
+          "filename": "Armavir-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Ashkhar21-DP.pdf",
+          "filename": "Gegharkunik-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Astgh21-DP.pdf",
+          "filename": "Gegharkunik-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Fizika21-DP.pdf",
+          "filename": "Gegharkunik-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Inform21-DP.pdf",
+          "filename": "Gegharkunik-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Math21-DP.pdf",
+          "filename": "Gegharkunik-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Ashkhar21-DP.pdf",
+          "filename": "Kotayk-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Astgh21-DP.pdf",
+          "filename": "Kotayk-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Fizika21-DP.pdf",
+          "filename": "Kotayk-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Inform21-DP.pdf",
+          "filename": "Kotayk-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Math21-DP.pdf",
+          "filename": "Kotayk-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Ashkhar21-DP.pdf",
+          "filename": "Lori-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Astgh21-DP.pdf",
+          "filename": "Lori-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Fizika21-DP.pdf",
+          "filename": "Lori-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Inform21-DP.pdf",
+          "filename": "Lori-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Math21-DP.pdf",
+          "filename": "Lori-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Ashkhar21-DP.pdf",
+          "filename": "Shirak-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Astgh21-DP.pdf",
+          "filename": "Shirak-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Fizika21-DP.pdf",
+          "filename": "Shirak-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Inform21-DP.pdf",
+          "filename": "Shirak-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Math21-DP.pdf",
+          "filename": "Shirak-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Ashkhar21-DP.pdf",
+          "filename": "Syunik-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Astgh21-DP.pdf",
+          "filename": "Syunik-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Fizika21-DP.pdf",
+          "filename": "Syunik-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Inform21-DP.pdf",
+          "filename": "Syunik-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Math21-DP.pdf",
+          "filename": "Syunik-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Ashkhar21-DP.pdf",
+          "filename": "Tavush-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Astgh21-DP.pdf",
+          "filename": "Tavush-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Fizika21-DP.pdf",
+          "filename": "Tavush-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Inform21-DP.pdf",
+          "filename": "Tavush-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Math21-DP.pdf",
+          "filename": "Tavush-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Ashkhar21-DP.pdf",
+          "filename": "VayotsDzor-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Astgh21-DP.pdf",
+          "filename": "VayotsDzor-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Fizika21-DP.pdf",
+          "filename": "VayotsDzor-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Inform21-DP.pdf",
+          "filename": "VayotsDzor-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Math21-DP.pdf",
+          "filename": "VayotsDzor-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - աշխարհագրություն",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Ashkhar21-DP.pdf",
+          "filename": "Yerevan-Ashkhar21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - աստղագիտություն",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Astgh21-DP.pdf",
+          "filename": "Yerevan-Astgh21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - ֆիզիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Fizika21-DP.pdf",
+          "filename": "Yerevan-Fizika21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - ինֆորմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Inform21-DP.pdf",
+          "filename": "Yerevan-Inform21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Math21-DP.pdf",
+          "filename": "Yerevan-Math21-DP.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - մաթեմատիկա",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Math21-DP-1.pdf",
+          "filename": "Ararat-Math21-DP-1.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Kensab21-DP-2.pdf",
+          "filename": "Aragatsotn-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արագածոտն - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Aragatsotn-Qimia21-DP-2.pdf",
+          "filename": "Aragatsotn-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատն - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Kensab21-DP-2.pdf",
+          "filename": "Ararat-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատն - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Ararat-Qimia21-DP-2.pdf",
+          "filename": "Ararat-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Kensab21-DP-2.pdf",
+          "filename": "Armavir-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Armavir-Qimia21-DP-2.pdf",
+          "filename": "Armavir-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Kensab21-DP-2.pdf",
+          "filename": "Gegharkunik-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Gegharkunik-Qimia21-DP-2.pdf",
+          "filename": "Gegharkunik-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Kensab21-DP-2.pdf",
+          "filename": "Kotayk-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Kotayk-Qimia21-DP-2.pdf",
+          "filename": "Kotayk-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Kensab21-DP-2.pdf",
+          "filename": "Lori-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Lori-Qimia21-DP-2.pdf",
+          "filename": "Lori-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Kensab21-DP-2.pdf",
+          "filename": "Shirak-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Shirak-Qimia21-DP-2.pdf",
+          "filename": "Shirak-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Kensab21-DP-2.pdf",
+          "filename": "Syunik-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Syunik-Qimia21-DP-2.pdf",
+          "filename": "Syunik-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Kensab21-DP-2.pdf",
+          "filename": "Tavush-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Tavush-Qimia21-DP-2.pdf",
+          "filename": "Tavush-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Kensab21-DP-2.pdf",
+          "filename": "VayotsDzor-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/VayotsDzor-Qimia21-DP-2.pdf",
+          "filename": "VayotsDzor-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - կենսաբանություն",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Kensab21-DP-2.pdf",
+          "filename": "Yerevan-Kensab21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - քիմիա",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Qimia21-DP-2.pdf",
+          "filename": "Yerevan-Qimia21-DP-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "766",
+      "url": "https://olymp.am/hy/node/766",
+      "header": "2020[Հանրապետական→Մաթեմատիկա]",
+      "title": "ՀՀ ԿԳՄՍ հրաման N։1728-Ա/2 /հանձնաժողովների նախագահներ/",
+      "year": "2020",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "ՀՀ ԿԳՄՍ հրաման N։1728-Ա/2",
+          "url": "https://olymp.am/sites/default/file/problems/HRAMAN-Naxagahner-1728%20-%D4%B1-2-08.12.2020-1.pdf",
+          "filename": "HRAMAN-Naxagahner-1728%20-%D4%B1-2-08.12.2020-1.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "721",
+      "url": "https://olymp.am/hy/node/721",
+      "header": "2020[Հանրապետական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱ, Հանրապետական փուլ - 2020 թ.",
+      "year": "2020",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Առաջադրանքները - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-HP2020.pdf",
+          "filename": "Ar-Fizika-9das-HP2020.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-HP2020.pdf",
+          "filename": "Ar-Fizika-10das-HP2020.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-HP2020.pdf",
+          "filename": "Ar-Fizika-11das-HP2020.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքները - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-HP2020.pdf",
+          "filename": "Ar-Fizika-12das-HP2020.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-9das-HP2020.pdf",
+          "filename": "ArPat-Fizika-9das-HP2020.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-10das-HP2020.pdf",
+          "filename": "ArPat-Fizika-10das-HP2020.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-11das-HP2020.pdf",
+          "filename": "ArPat-Fizika-11das-HP2020.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPat-Fizika-12das-HP2020.pdf",
+          "filename": "ArPat-Fizika-12das-HP2020.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "711",
+      "url": "https://olymp.am/hy/node/711",
+      "header": "2020[Մարզային→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱ, Մարզային փուլ - 2020 թ.",
+      "year": "2020",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Առաջադրանքները և լուծումները - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArLu-Fizika-9das-MP2020.pdf",
+          "filename": "ArLu-Fizika-9das-MP2020.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArLu-Fizika-10das-MP2020.pdf",
+          "filename": "ArLu-Fizika-10das-MP2020.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArLu-Fizika-11das-MP2020.pdf",
+          "filename": "ArLu-Fizika-11das-MP2020.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArLu-Fizika-12das-MP2020.pdf",
+          "filename": "ArLu-Fizika-12das-MP2020.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        }
+      ]
+    },
+    {
+      "node_id": "699",
+      "url": "https://olymp.am/hy/node/699",
+      "header": "2020[Մարզային→Մաթեմատիկա]",
+      "title": "Դպրոցականների առարկայական օլիմպիադաների /մարզային/ փուլի ԺԱՄԱՆԱԿԱՑՈՒՅՑԸ-2020",
+      "year": "2020",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Արագածոտն - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Aragacotn2020.pdf",
+          "filename": "Zh-MP-Aragacotn2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արարատ - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Ararat2020.pdf",
+          "filename": "Zh-MP-Ararat2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արցախ - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Arcakh2020.pdf",
+          "filename": "Zh-MP-Arcakh2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Արմավիր - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Armavir2020.pdf",
+          "filename": "Zh-MP-Armavir2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գեղարքունիք - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Gegharkuniq2020.pdf",
+          "filename": "Zh-MP-Gegharkuniq2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կոտայք - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Kotayq2020.pdf",
+          "filename": "Zh-MP-Kotayq2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լոռի - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Lori2020.pdf",
+          "filename": "Zh-MP-Lori2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Սյունիք - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Syuniq2020.pdf",
+          "filename": "Zh-MP-Syuniq2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Տավուշ - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Tavush2020.pdf",
+          "filename": "Zh-MP-Tavush2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Վայոց ձոր - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-VayocDzor2020.pdf",
+          "filename": "Zh-MP-VayocDzor2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Երևան - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Yerevan2020.pdf",
+          "filename": "Zh-MP-Yerevan2020.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Շիրակ - Մարզային փուլի ժամանակացույց 2020",
+          "url": "https://olymp.am/sites/default/file/problems/Zh-MP-Shirak2020-1.pdf",
+          "filename": "Zh-MP-Shirak2020-1.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "659",
+      "url": "https://olymp.am/hy/node/659",
+      "header": "2019[Ընտրական→Մաթեմատիկա]",
+      "title": "ԵՊՀ-ի օլիմպիադա - 2019",
+      "year": "2019",
+      "stage": "Other",
+      "attachments": [
+        {
+          "title": "Անգլերեն - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-Angleren-2Pul.pdf",
+          "filename": "EPH-Angleren-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Ֆիզիկա - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-Fizika-2Pul.pdf",
+          "filename": "EPH-Fizika-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Ֆրանսերեն - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-Frans-2Pul.pdf",
+          "filename": "EPH-Frans-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Գերմաներեն - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-German-2Pul.pdf",
+          "filename": "EPH-German-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Հայոց լեզու և գրականություն - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-HLezuGrak-2Pul.pdf",
+          "filename": "EPH-HLezuGrak-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Հայ ժողովրդի պատմություն - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-HZhPatm-2Pul.pdf",
+          "filename": "EPH-HZhPatm-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Կենսաբանություն - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-Kensab-2Pul.pdf",
+          "filename": "EPH-Kensab-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Մաթեմատիկա - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-Math-2Pul.pdf",
+          "filename": "EPH-Math-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Քիմիա - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-Qimia-2Pul.pdf",
+          "filename": "EPH-Qimia-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Ռուսաց լեզու - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-RLezu-2Pul.pdf",
+          "filename": "EPH-RLezu-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Ստեղծագործական աշխատանք - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-StAshxatanq-2Pul.pdf",
+          "filename": "EPH-StAshxatanq-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Աշխարհագրություն - 2 փուլ անցածներ աշակերտներ",
+          "url": "https://olymp.am/sites/default/file/problems/EPH-Ashxarh-2Pul.pdf",
+          "filename": "EPH-Ashxarh-2Pul.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "644",
+      "url": "https://olymp.am/hy/node/644",
+      "header": "2019[Հանրապետական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱ, Հանրապետական փուլ -2019 թ.",
+      "year": "2019",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Առաջադրանքները և լուծումները՝ 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-HP2019.pdf",
+          "filename": "Ar-Fizika-9das-HP2019.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները՝ 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-HP2019.pdf",
+          "filename": "Ar-Fizika-10das-HP2019.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները՝ 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-HP2019.pdf",
+          "filename": "Ar-Fizika-11das-HP2019.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները և լուծումները՝ 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-HP2019.pdf",
+          "filename": "Ar-Fizika-12das-HP2019.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքները /փորձարարական փուլ/՝ 9-10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPP-Fizika-9-10das-HP2019.pdf",
+          "filename": "ArPP-Fizika-9-10das-HP2019.pdf",
+          "grade": "9-10-րդ դաս.",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Առաջադրանքները /փորձարարական փուլ/՝ 11-12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ArPP-Fizika-11-12das-HP2019.pdf",
+          "filename": "ArPP-Fizika-11-12das-HP2019.pdf",
+          "grade": "11-12-րդ դաս.",
+          "file_type": "Experimental"
+        }
+      ]
+    },
+    {
+      "node_id": "632",
+      "url": "https://olymp.am/hy/node/632",
+      "header": "2019[Մարզային→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱ, Մարզային փուլ -2019 թ.",
+      "year": "2019",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-MP2019.pdf",
+          "filename": "Ar-Fizika-9das-MP2019.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-MP2019.pdf",
+          "filename": "Ar-Fizika-10das-MP2019.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-MP2019.pdf",
+          "filename": "Ar-Fizika-11das-MP2019.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-MP2019.pdf",
+          "filename": "Ar-Fizika-12das-MP2019.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխաններ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-10das-MP2019.pdf",
+          "filename": "Pat-Fizika-10das-MP2019.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխաններ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-12das-MP2019.pdf",
+          "filename": "Pat-Fizika-12das-MP2019.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխաններ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-9das-MP2019-1.pdf",
+          "filename": "Pat-Fizika-9das-MP2019-1.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխաններ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-11das-MP2019-1.pdf",
+          "filename": "Pat-Fizika-11das-MP2019-1.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "628",
+      "url": "https://olymp.am/hy/node/628",
+      "header": "2019[Դպրոցական→Մաթեմատիկա]",
+      "title": "ՀՀ ԿԳՆ 95 Ա/2 հրաման 11.02.2019թ․",
+      "year": "2019",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "ՀՀ ԿԳՆ 95 Ա/2 հրաման 11.02.2019թ․",
+          "url": "https://olymp.am/sites/default/file/problems/Hr95Ash-11022019.pdf",
+          "filename": "Hr95Ash-11022019.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՀՀ ԿԳՆ 151 Ա/2 հրաման 22.02.2019թ․",
+          "url": "https://olymp.am/sites/default/file/problems/Hr151Ash-22022019.pdf",
+          "filename": "Hr151Ash-22022019.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՀՀ ԿԳՆ 151 Ա/2 հրաման 22.02.2019թ․- Հավելված 2-1",
+          "url": "https://olymp.am/sites/default/file/problems/Hr151Ash-22022019-2-1.pdf",
+          "filename": "Hr151Ash-22022019-2-1.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՀՀ ԿԳՆ 151 Ա/2 հրաման 22.02.2019թ․- Հավելված 2-2",
+          "url": "https://olymp.am/sites/default/file/problems/Hr151Ash-22022019-2-2.pdf",
+          "filename": "Hr151Ash-22022019-2-2.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՀՀ ԿԳՆ 151 Ա/2 հրաման 22.02.2019թ․- Հավելված 2-3",
+          "url": "https://olymp.am/sites/default/file/problems/Hr151Ash-22022019-2-3.pdf",
+          "filename": "Hr151Ash-22022019-2-3.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "618",
+      "url": "https://olymp.am/hy/node/618",
+      "header": "2019[Դպրոցական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ դպրոցական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ - 2019",
+      "year": "2019",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-9das-2019.pdf",
+          "filename": "Ar-Fizika-9das-2019.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-10das-2019.pdf",
+          "filename": "Ar-Fizika-10das-2019.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-11das-2019.pdf",
+          "filename": "Ar-Fizika-11das-2019.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-Fizika-12das-2019.pdf",
+          "filename": "Ar-Fizika-12das-2019.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխաններ՝ 9-12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-Fizika-9-12das-2019-1.pdf",
+          "filename": "Pat-Fizika-9-12das-2019-1.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "615",
+      "url": "https://olymp.am/hy/node/615",
+      "header": "2019[Դպրոցական→Մաթեմատիկա]",
+      "title": "Երևան քաղաքի տարածքային փուլի ԺԱՄԱՆԱԿԱՑՈՒՅՑԸ - 2019",
+      "year": "2019",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "ԺԱՄԱՆԱԿԱՑՈՒՅՑԸ - 2019",
+          "url": "https://olymp.am/sites/default/file/problems/DP-Yerevan-Zhamanakacujc2019.pdf",
+          "filename": "DP-Yerevan-Zhamanakacujc2019.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "577",
+      "url": "https://olymp.am/hy/node/577",
+      "header": "2018[Հանրապետական→Մաթեմատիկա]",
+      "title": "ԱՌԱՐԿԱՅԱԿԱՆ ՕԼԻՄՊԻԱԴԱՆԵՐԻ ՀԱՆՐԱՊԵՏԱԿԱՆ ՀԱՆՁՆԱԺՈՂՈՎՆԵՐԻ ԿԱԶՄԵՐԸ - 2018",
+      "year": "2018",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "ՀՀ ԿԳՆ 237-Ա-2-16.03.18 համան",
+          "url": "https://olymp.am/sites/default/file/problems/NH-237-%D4%B1-2-16.03.18.pdf",
+          "filename": "NH-237-%D4%B1-2-16.03.18.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "571",
+      "url": "https://olymp.am/hy/node/571",
+      "header": "2018[Հանրապետական→Ֆիզիկա]",
+      "title": "Ֆիզիկայի հանրապետական փուլ - 2018",
+      "year": "2018",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Ar-9das-Hanr18.pdf",
+          "filename": "Fizika-Ar-9das-Hanr18.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Ar-10das-Hanr18.pdf",
+          "filename": "Fizika-Ar-10das-Hanr18.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Ar-11das-Hanr18.pdf",
+          "filename": "Fizika-Ar-11das-Hanr18.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Առաջադրանքներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Ar-12das-Hanr18.pdf",
+          "filename": "Fizika-Ar-12das-Hanr18.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լուծումներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Pa-9das-Hanr18.pdf",
+          "filename": "Fizika-Pa-9das-Hanr18.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Pa-10das-Hanr18.pdf",
+          "filename": "Fizika-Pa-10das-Hanr18.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Pa-11das-Hanr18.pdf",
+          "filename": "Fizika-Pa-11das-Hanr18.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Լուծումներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Pa-12das-Hanr18.pdf",
+          "filename": "Fizika-Pa-12das-Hanr18.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Առաջադրանքներ, փորձարարական փուլ  - 9-10-րդ դասարաններ",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-ArPP-9-10das-Hanr18.pdf",
+          "filename": "Fizika-ArPP-9-10das-Hanr18.pdf",
+          "grade": "9-10-րդ դաս.",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Առաջադրանքներ, փորձարարական փուլ  - 11-12-րդ դասարաններ",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-ArPP-11-12das-Hanr18.pdf",
+          "filename": "Fizika-ArPP-11-12das-Hanr18.pdf",
+          "grade": "11-12-րդ դաս.",
+          "file_type": "Experimental"
+        }
+      ]
+    },
+    {
+      "node_id": "554",
+      "url": "https://olymp.am/hy/node/554",
+      "header": "2018[Մարզային→Ֆիզիկա]",
+      "title": "Ֆիզիկայի մարզային փուլ - 2018",
+      "year": "2018",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Pa-marz18-9das.pdf",
+          "filename": "Fizika-Pa-marz18-9das.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Pa-marz18-10das.pdf",
+          "filename": "Fizika-Pa-marz18-10das.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Pa-marz18-11das.pdf",
+          "filename": "Fizika-Pa-marz18-11das.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Առաջադրանքներ և լուծումներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-Pa-marz18-12das.pdf",
+          "filename": "Fizika-Pa-marz18-12das.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        }
+      ]
+    },
+    {
+      "node_id": "542",
+      "url": "https://olymp.am/hy/node/542",
+      "header": "2018[Դպրոցական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ դպրոցական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ-2018",
+      "year": "2018",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-9das-2018.pdf",
+          "filename": "Fizika-9das-2018.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-10das-2018.pdf",
+          "filename": "Fizika-10das-2018.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-11das-2018.pdf",
+          "filename": "Fizika-11das-2018.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-12das-2018.pdf",
+          "filename": "Fizika-12das-2018.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Ֆիզիկա - ՊԱՏԱՍԽԱՆՆԵՐ",
+          "url": "https://olymp.am/sites/default/file/problems/Patasxan-Fizika18-3.pdf",
+          "filename": "Patasxan-Fizika18-3.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Ֆիզիկա - Լուծումներ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika9-solutions18.pdf",
+          "filename": "Fizika9-solutions18.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Ֆիզիկա - Լուծումներ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika10-solutions18.pdf",
+          "filename": "Fizika10-solutions18.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Ֆիզիկա - Լուծումներ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika11-solutions18.pdf",
+          "filename": "Fizika11-solutions18.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Ֆիզիկա - Լուծումներ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika12-solutions18.pdf",
+          "filename": "Fizika12-solutions18.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "492",
+      "url": "https://olymp.am/hy/node/492",
+      "header": "2017[Հանրապետական→Ֆիզիկա]",
+      "title": "Ֆիզիկա, հանրապետական փուլ - 2017",
+      "year": "2017",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Ar-fizika-das9-HanrB-17.pdf",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das9-HanrB-17.pdf",
+          "filename": "Ar-fizika-das9-HanrB-17.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Ar-fizika-das10-HanrB-17.pdf",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das10-HanrB-17.pdf",
+          "filename": "Ar-fizika-das10-HanrB-17.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Ar-fizika-das11-HanrB-17.pdf",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das11-HanrB-17.pdf",
+          "filename": "Ar-fizika-das11-HanrB-17.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Ar-fizika-das12-HanrB-17.pdf",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das12-HanrB-17.pdf",
+          "filename": "Ar-fizika-das12-HanrB-17.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Ֆիզիկայի, հանրապետական փուլի առաջադրանքները և լուծումները, 9-րդ դաս.,  /տարբերակ Ա/",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das9-Hanr17A-1.pdf",
+          "filename": "Ar-fizika-das9-Hanr17A-1.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Ֆիզիկայի, հանրապետական փուլի առաջադրանքները և լուծումները, 10-րդ դաս.,  /տարբերակ Ա/",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das10-Hanr17A-1.pdf",
+          "filename": "Ar-fizika-das10-Hanr17A-1.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Ֆիզիկայի, հանրապետական փուլի առաջադրանքները և լուծումները, 11-րդ դաս.,  /տարբերակ Ա/",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das11-Hanr17A-1.pdf",
+          "filename": "Ar-fizika-das11-Hanr17A-1.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Ֆիզիկայի, հանրապետական փուլի առաջադրանքները և լուծումները, 12-րդ դաս.,  /տարբերակ Ա/",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das12-Hanr17A-1.pdf",
+          "filename": "Ar-fizika-das12-Hanr17A-1.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Ֆիզիկայի, հանրապետական փուլ, փորձարական փուլի խնդիրները, 9-րդ դաս.,  /տարբերակ Ա/",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das9-HanrA-Porc.pdf",
+          "filename": "Ar-fizika-das9-HanrA-Porc.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Ֆիզիկայի, հանրապետական փուլ, փորձարական փուլի խնդիրները, 10-11-րդ դաս.,  /տարբերակ Ա/",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das10-11-HanrA-Porc.pdf",
+          "filename": "Ar-fizika-das10-11-HanrA-Porc.pdf",
+          "grade": "10-11-րդ դաս.",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Ֆիզիկայի, հանրապետական փուլ, փորձարական փուլի խնդիրները, 12-րդ դաս.,  /տարբերակ Ա/",
+          "url": "https://olymp.am/sites/default/file/problems/Ar-fizika-das12-HanrA-Porc.pdf",
+          "filename": "Ar-fizika-das12-HanrA-Porc.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Experimental"
+        }
+      ]
+    },
+    {
+      "node_id": "472",
+      "url": "https://olymp.am/hy/node/472",
+      "header": "2017[Դպրոցական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱՅԻ դպրոցական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ-2017",
+      "year": "2017",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ar-9das-fizika-2017.pdf",
+          "filename": "ar-9das-fizika-2017.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ar-10das-fizika-2017.pdf",
+          "filename": "ar-10das-fizika-2017.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ar-11das-fizika-2017.pdf",
+          "filename": "ar-11das-fizika-2017.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/ar-12das-fizika-2017.pdf",
+          "filename": "ar-12das-fizika-2017.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "9-րդ դասարանի առաջադրանքների լուծումները",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-fizika-9das.pdf",
+          "filename": "Pat-fizika-9das.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "10-րդ դասարանի առաջադրանքների լուծումները",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-fizika-10das.pdf",
+          "filename": "Pat-fizika-10das.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "11-րդ դասարանի առաջադրանքների լուծումները",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-fizika-11das.pdf",
+          "filename": "Pat-fizika-11das.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "12-րդ դասարանի առաջադրանքների լուծումները",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-fizika-12das.pdf",
+          "filename": "Pat-fizika-12das.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "Ընդհանուր պատասխանները",
+          "url": "https://olymp.am/sites/default/file/problems/Pat-fizika-ynd17-1.pdf",
+          "filename": "Pat-fizika-ynd17-1.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "450",
+      "url": "https://olymp.am/hy/node/450",
+      "header": "2016[Ժաուտիկովյան→Մաթեմատիկա]",
+      "title": "Ժաուտիկովյան միջազգային օլիմպիադ – 2016 /արդյունքները/",
+      "year": "2016",
+      "stage": "IZHO",
+      "attachments": [
+        {
+          "title": "Ժաուտիկովյան միջազգային օլիմպիադ – 2016",
+          "url": "https://olymp.am/sites/default/file/problems/zhmo-2016-ard.pdf",
+          "filename": "zhmo-2016-ard.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "448",
+      "url": "https://olymp.am/hy/node/448",
+      "header": "2016[Դպրոցական→Մաթեմատիկա]",
+      "title": "Պատասխանների թերթիկ, լրացման ցուցումներ և նմուշ",
+      "year": "2016",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Պատասխանների թերթիկ (գունավոր)",
+          "url": "https://olymp.am/sites/default/file/problems/test16.pdf",
+          "filename": "test16.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Նմուշի օրինակ",
+          "url": "https://olymp.am/sites/default/file/problems/nmush16.pdf",
+          "filename": "nmush16.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Պատասխանների թերթիկ (սև և սպիտակ, տպագրության համար)",
+          "url": "https://olymp.am/sites/default/file/problems/PT-sev-spitak.pdf",
+          "filename": "PT-sev-spitak.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "447",
+      "url": "https://olymp.am/hy/node/447",
+      "header": "2016[Դպրոցական→Մաթեմատիկա]",
+      "title": "ՀՀ ԿԳ Նախարարի հրաման (N:1249-Ա/2, 5.12.2016թ.)",
+      "year": "2016",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "ՀԱՎԵԼՎԱԾ 1",
+          "url": "https://olymp.am/sites/default/file/problems/Havelvac-11.xlsx",
+          "filename": "Havelvac-11.xlsx",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՀԱՎԵԼՎԱԾ 2",
+          "url": "https://olymp.am/sites/default/file/problems/Havelvac-21.xlsx",
+          "filename": "Havelvac-21.xlsx",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՀԱՎԵԼՎԱԾ 3",
+          "url": "https://olymp.am/sites/default/file/problems/Havelvac-31.xlsx",
+          "filename": "Havelvac-31.xlsx",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "441",
+      "url": "https://olymp.am/hy/node/441",
+      "header": "2016[Միջազգային→Մաթեմատիկա]",
+      "title": "Մեգապոլիսների օլիմպիադա - 2016",
+      "year": "2016",
+      "stage": "Other",
+      "attachments": [
+        {
+          "title": "Մեգապոլիսների օլիմպիադա - 2016",
+          "url": "https://olymp.am/sites/default/file/problems/MP2016-Yerevan-kazmy.pdf",
+          "filename": "MP2016-Yerevan-kazmy.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Մեգապոլիսների օլիմպիադա - 2016 /բլից-տուրի առաջադրանքները/",
+          "url": "https://olymp.am/sites/default/file/problems/omp-answer-blitz-tour.pdf",
+          "filename": "omp-answer-blitz-tour.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Մեգապոլիսների օլիմպիադա - 2016 /1-ին օր, մաթեմատիկա-տեսական/, առաջադրանքները",
+          "url": "https://olymp.am/sites/default/file/problems/omp-tasks-math.pdf",
+          "filename": "omp-tasks-math.pdf",
+          "grade": "General",
+          "file_type": "Theory"
+        },
+        {
+          "title": "Մեգապոլիսների օլիմպիադա - 2016 /1-ին օր, ֆիզիկա-փորձարարական/, առաջադրանքները",
+          "url": "https://olymp.am/sites/default/file/problems/omp-tasks-phys.pdf",
+          "filename": "omp-tasks-phys.pdf",
+          "grade": "General",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Մեգապոլիսների օլիմպիադա - 2016 /1-ին օր, ինֆորմատիկա-տեսական/, առաջադրանքները",
+          "url": "https://olymp.am/sites/default/file/problems/omp-tasks-inform.pdf",
+          "filename": "omp-tasks-inform.pdf",
+          "grade": "General",
+          "file_type": "Theory"
+        },
+        {
+          "title": "Մեգապոլիսների օլիմպիադա - 2016 /1-ին օր, Քիմիա-փորձարարական/, առաջադրանքները",
+          "url": "https://olymp.am/sites/default/file/problems/omp-tasks-chem.pdf",
+          "filename": "omp-tasks-chem.pdf",
+          "grade": "General",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Մեգապոլիսների օլիմպիադա - 2016 /2-րդ օր, մաթեմատիկա-տեսական/, առաջադրանքները",
+          "url": "https://olymp.am/sites/default/file/problems/omp-tasks-math-2.pdf",
+          "filename": "omp-tasks-math-2.pdf",
+          "grade": "General",
+          "file_type": "Theory"
+        },
+        {
+          "title": "Մեգապոլիսների օլիմպիադա - 2016 /2-րդ օր, ֆիզիկա-տեսական/, առաջադրանքները",
+          "url": "https://olymp.am/sites/default/file/problems/omp-tasks-phys-2.pdf",
+          "filename": "omp-tasks-phys-2.pdf",
+          "grade": "General",
+          "file_type": "Theory"
+        },
+        {
+          "title": "Մեգապոլիսների օլիմպիադա - 2016 /2-րդ օր, ինֆորմատիկա-տեսական/, առաջադրանքները",
+          "url": "https://olymp.am/sites/default/file/problems/omp-tasks-inform-2.pdf",
+          "filename": "omp-tasks-inform-2.pdf",
+          "grade": "General",
+          "file_type": "Theory"
+        },
+        {
+          "title": "Մեգապոլիսների օլիմպիադա - 2016 /2-րդ օր, Քիմիա-տեսական/, առաջադրանքները",
+          "url": "https://olymp.am/sites/default/file/problems/omp-tasks-chem-2.pdf",
+          "filename": "omp-tasks-chem-2.pdf",
+          "grade": "General",
+          "file_type": "Theory"
+        }
+      ]
+    },
+    {
+      "node_id": "403",
+      "url": "https://olymp.am/hy/node/403",
+      "header": "2016[Հանրապետական→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱ, Հանրապետական փուլ",
+      "year": "2016",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-hanrapetakan-ar-9das-2016.pdf",
+          "filename": "Fizika-hanrapetakan-ar-9das-2016.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-hanrapetakan-ar-10das-2016.pdf",
+          "filename": "Fizika-hanrapetakan-ar-10das-2016.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-hanrapetakan-ar-11das-2016.pdf",
+          "filename": "Fizika-hanrapetakan-ar-11das-2016.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-hanrapetakan-ar-12das-2016.pdf",
+          "filename": "Fizika-hanrapetakan-ar-12das-2016.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԼՈՒԾՈՒՄՆԵՐԸ - 9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-hanrapetakan-pat-9das-2016.pdf",
+          "filename": "Fizika-hanrapetakan-pat-9das-2016.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԼՈՒԾՈՒՄՆԵՐԸ - 10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-hanrapetakan-pat-10das-2016.pdf",
+          "filename": "Fizika-hanrapetakan-pat-10das-2016.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԼՈՒԾՈՒՄՆԵՐԸ - 11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-hanrapetakan-pat-11das-2016.pdf",
+          "filename": "Fizika-hanrapetakan-pat-11das-2016.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԼՈՒԾՈՒՄՆԵՐԸ - 12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-hanrapetakan-pat-12das-2016.pdf",
+          "filename": "Fizika-hanrapetakan-pat-12das-2016.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "ՖԻԶԻԿԱՅԻ հանրապետական փուլի ԱՌԱՋԱԴՐԱՆՔՆԵՐԸ - 2-րդ օր",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-hanrapetakan-Exper-9-12das-2016.pdf",
+          "filename": "Fizika-hanrapetakan-Exper-9-12das-2016.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "385",
+      "url": "https://olymp.am/hy/node/385",
+      "header": "2016[Մարզային→Ֆիզիկա]",
+      "title": "ՖԻԶԻԿԱ, 2-րդ /մարզային/ փուլ",
+      "year": "2016",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "ՖԻԶԻԿԱ, 2-րդ /մարզային/ փուլի առաջադրանքները և պատասխանները -9-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-2016-problems-solutions-9.pdf",
+          "filename": "Fizika-2016-problems-solutions-9.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "ՖԻԶԻԿԱ, 2-րդ /մարզային/ փուլի առաջադրանքները և պատասխանները -10-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-2016-problems-solutions-10.pdf",
+          "filename": "Fizika-2016-problems-solutions-10.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "ՖԻԶԻԿԱ, 2-րդ /մարզային/ փուլի առաջադրանքները և պատասխանները -11-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-2016-problems-solutions-11.pdf",
+          "filename": "Fizika-2016-problems-solutions-11.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        },
+        {
+          "title": "ՖԻԶԻԿԱ, 2-րդ /մարզային/ փուլի առաջադրանքները և պատասխանները -12-րդ դասարան",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-2016-problems-solutions-12.pdf",
+          "filename": "Fizika-2016-problems-solutions-12.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problems & Solutions"
+        }
+      ]
+    },
+    {
+      "node_id": "375",
+      "url": "https://olymp.am/hy/node/375",
+      "header": "2016[Դպրոցական→Մաթեմատիկա]",
+      "title": "Դպրոցականների առարկայական օլիմպիադաներ - 2015/2016 ուսումնական տարի",
+      "year": "2016",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "ՀՀ ԿԳՆ հրաման N 29-Ա/Ք     22-01-2016",
+          "url": "https://olymp.am/sites/default/file/problems/Hraman-1052popoxvac.pdf",
+          "filename": "Hraman-1052popoxvac.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՄԱԹԵՄԱՏԻԿԱ - 5-րդ դասարան,",
+          "url": "https://olymp.am/sites/default/file/problems/mat5-das2015-2016.pdf",
+          "filename": "mat5-das2015-2016.pdf",
+          "grade": "5-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՄԱԹԵՄԱՏԻԿԱ - 6-րդ դասարան,",
+          "url": "https://olymp.am/sites/default/file/problems/mat6-das2015-2016.pdf",
+          "filename": "mat6-das2015-2016.pdf",
+          "grade": "6-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՄԱԹԵՄԱՏԻԿԱ - 7-րդ դասարան,",
+          "url": "https://olymp.am/sites/default/file/problems/mat7-das2015-2016.pdf",
+          "filename": "mat7-das2015-2016.pdf",
+          "grade": "7-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՄԱԹԵՄԱՏԻԿԱ - 8-րդ դասարան,",
+          "url": "https://olymp.am/sites/default/file/problems/mat8-das2015-2016.pdf",
+          "filename": "mat8-das2015-2016.pdf",
+          "grade": "8-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՄԱԹԵՄԱՏԻԿԱ - 9-րդ դասարան,",
+          "url": "https://olymp.am/sites/default/file/problems/mat9-das2015-2016_0.pdf",
+          "filename": "mat9-das2015-2016_0.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՄԱԹԵՄԱՏԻԿԱ - 10-րդ դասարան,",
+          "url": "https://olymp.am/sites/default/file/problems/mat10-das2015-2016.pdf",
+          "filename": "mat10-das2015-2016.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՄԱԹԵՄԱՏԻԿԱ - 11-12-րդ դասարաններ:",
+          "url": "https://olymp.am/sites/default/file/problems/mat11-12-das2015-2016.pdf",
+          "filename": "mat11-12-das2015-2016.pdf",
+          "grade": "11-12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Աստղագիտություն-Առաջադրանքներ",
+          "url": "https://olymp.am/sites/default/file/problems/Astro_I_pool_2016.pdf",
+          "filename": "Astro_I_pool_2016.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՖԻԶԻԿԱ - 9-րդ դասարան /առաջադրանքներ/,",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-9-das-2015-2016.pdf",
+          "filename": "Fizika-9-das-2015-2016.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՖԻԶԻԿԱ - 10-րդ դասարան /առաջադրանքներ/,",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-10-das-2015-2016.pdf",
+          "filename": "Fizika-10-das-2015-2016.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՖԻԶԻԿԱ - 11-րդ դասարան /առաջադրանքներ/,",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-11-das-2015-2016.pdf",
+          "filename": "Fizika-11-das-2015-2016.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՖԻԶԻԿԱ - 12-րդ դասարան /առաջադրանքներ/,",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-12-das-2015-2016.pdf",
+          "filename": "Fizika-12-das-2015-2016.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՄԱԹԵՄԱՏԻԿԱ 1-ին /դպրոցական/ փուլ, ՊԱՏԱՍԽԱՆՆԵՐ",
+          "url": "https://olymp.am/sites/default/file/problems/Math-Pat2015-16-01.pdf",
+          "filename": "Math-Pat2015-16-01.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՔԻՄԻԱ - 9-րդ դասարան,",
+          "url": "https://olymp.am/sites/default/file/problems/Chem9-2015-2016.pdf",
+          "filename": "Chem9-2015-2016.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՔԻՄԻԱ - 10-րդ դասարան,",
+          "url": "https://olymp.am/sites/default/file/problems/Chem10-2015-2016.pdf",
+          "filename": "Chem10-2015-2016.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՔԻՄԻԱ - 11-12-րդ դասարաններ,",
+          "url": "https://olymp.am/sites/default/file/problems/Chem11-12-2015-2016.pdf",
+          "filename": "Chem11-12-2015-2016.pdf",
+          "grade": "11-12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ԱՍՏՂԱԳԻՏՈՒԹՅՈՒՆ 1-ին /դպրոցական/ փուլ, ՊԱՏԱՍԽԱՆՆԵՐ",
+          "url": "https://olymp.am/sites/default/file/problems/Astro_1pool_patasxanner.pdf",
+          "filename": "Astro_1pool_patasxanner.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ - 9-րդ դասարան /առաջադրանքներ/",
+          "url": "https://olymp.am/sites/default/file/problems/Geog-9das-20015-2016.pdf",
+          "filename": "Geog-9das-20015-2016.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ - 10-րդ դասարան /առաջադրանքներ/",
+          "url": "https://olymp.am/sites/default/file/problems/Geog-10das-20015-2016.pdf",
+          "filename": "Geog-10das-20015-2016.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ԱՇԽԱՐՀԱԳՐՈՒԹՅՈՒՆ - 11-12-րդ դասարան /առաջադրանքներ/",
+          "url": "https://olymp.am/sites/default/file/problems/Geog-11-12das-20015-2016.pdf",
+          "filename": "Geog-11-12das-20015-2016.pdf",
+          "grade": "11-12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ԿԵՆՍԱԲԱՆՈՒԹՅՈՒՆ - 9-րդ դասարան /առաջադրանքներ/",
+          "url": "https://olymp.am/sites/default/file/problems/Biol-9das-20015-2016.pdf",
+          "filename": "Biol-9das-20015-2016.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ԿԵՆՍԱԲԱՆՈՒԹՅՈՒՆ - 10-րդ դասարան /առաջադրանքներ/",
+          "url": "https://olymp.am/sites/default/file/problems/Biol-10das-20015-2016.pdf",
+          "filename": "Biol-10das-20015-2016.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ԿԵՆՍԱԲԱՆՈՒԹՅՈՒՆ - 11-12-րդ դասարաններ /առաջադրանքներ/",
+          "url": "https://olymp.am/sites/default/file/problems/Biol-11-12das-20015-2016-1.pdf",
+          "filename": "Biol-11-12das-20015-2016-1.pdf",
+          "grade": "11-12-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՖԻԶԻԿԱ 1-ին /դպրոցական/ փուլ, ՊԱՏԱՍԽԱՆՆԵՐ",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-20015-2016-answer-1.pdf",
+          "filename": "Fizika-20015-2016-answer-1.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Դպրոցականների առարկայական օլիմպիադայի 2-րդ /մարզային/ փուլի",
+          "url": "https://olymp.am/sites/default/file/problems/Yerevan-Jam-Marzc2015-2016.pdf",
+          "filename": "Yerevan-Jam-Marzc2015-2016.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ԿԵՆՍԱԲԱՆՈՒԹՅՈՒՆ 1-ին /դպրոցական/ փուլ, ՊԱՏԱՍԽԱՆՆԵՐ",
+          "url": "https://olymp.am/sites/default/file/problems/Biol-20015-2016-answer-1.pdf",
+          "filename": "Biol-20015-2016-answer-1.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՔԻՄԻԱ 1-ին /դպրոցական/ փուլ, ՊԱՏԱՍԽԱՆՆԵՐ",
+          "url": "https://olymp.am/sites/default/file/problems/Chem-20015-2016-answer-1.pdf",
+          "filename": "Chem-20015-2016-answer-1.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "ՀՀ ԿԳՆ հրաման N 147-Ա     12-03-2016",
+          "url": "https://olymp.am/sites/default/file/problems/Hr147A-HanznajoxovneriKazm2016.pdf",
+          "filename": "Hr147A-HanznajoxovneriKazm2016.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "342",
+      "url": "https://olymp.am/hy/node/342",
+      "header": "2015[Հանրապետական→Ֆիզիկա]",
+      "title": "2015 Հանրապետական փուլ - Ֆիզիկա",
+      "year": "2015",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Խնդիրներ և Լուծումներ - Տեսական փուլ",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika-problems-sol.pdf",
+          "filename": "Fizika-problems-sol.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Խնդիրներ  - Փորձարարական փուլ",
+          "url": "https://olymp.am/sites/default/file/problems/Fizika%202%20pul.rar",
+          "filename": "Fizika%202%20pul.rar",
+          "grade": "General",
+          "file_type": "Experimental"
+        }
+      ]
+    },
+    {
+      "node_id": "335",
+      "url": "https://olymp.am/hy/node/335",
+      "header": "2015[Մարզային→Ֆիզիկա]",
+      "title": "2015 Մարզային փուլ - Ֆիզիկա",
+      "year": "2015",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Լուծումներ  (9 -12-րդ դասարաններ)",
+          "url": "https://olymp.am/sites/default/file/problems/Lucum-Fizika-%20marz%202015.pdf",
+          "filename": "Lucum-Fizika-%20marz%202015.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Խնդիրներ   (9 -12-րդ դասարաններ)",
+          "url": "https://olymp.am/sites/default/file/problems/xndir-marz-fizika2015.pdf",
+          "filename": "xndir-marz-fizika2015.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "316",
+      "url": "https://olymp.am/hy/node/316",
+      "header": "2015[Դպրոցական→Ֆիզիկա]",
+      "title": "2015 Ֆիզիկա - Դպրոցական փուլ",
+      "year": "2015",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Խնդիրներ և Լուծումներ  (9-րդ,10-րդ,11-րդ և 12-րդ դասարաններ)",
+          "url": "https://olymp.am/sites/default/file/problems/hanr02015-fin-solutions.pdf",
+          "filename": "hanr02015-fin-solutions.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Պատասխաններ",
+          "url": "https://olymp.am/sites/default/file/problems/Physics-answers-verjnak.pdf",
+          "filename": "Physics-answers-verjnak.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "277",
+      "url": "https://olymp.am/hy/node/277",
+      "header": "2014[Դպրոցական→Ֆիզիկա]",
+      "title": "Ֆիզիկա 2014թ.",
+      "year": "2014",
+      "stage": "School",
+      "attachments": [
+        {
+          "title": "Խնդիրներ (9-րդ դասարան)",
+          "url": "https://olymp.am/sites/default/file/problems/problems%20-9.pdf",
+          "filename": "problems%20-9.pdf",
+          "grade": "9-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Խնդիրներ  (10-րդ դասարան)",
+          "url": "https://olymp.am/sites/default/file/problems/Problems-%2010.pdf",
+          "filename": "Problems-%2010.pdf",
+          "grade": "10-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Խնդիրներ  (11-րդ դասարան)",
+          "url": "https://olymp.am/sites/default/file/problems/problems%20-11.pdf",
+          "filename": "problems%20-11.pdf",
+          "grade": "11-րդ դաս.",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Խնդիրներ  (12-րդ դասարան)",
+          "url": "https://olymp.am/sites/default/file/problems/problems%20-12.pdf",
+          "filename": "problems%20-12.pdf",
+          "grade": "12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "263",
+      "url": "https://olymp.am/hy/node/263",
+      "header": "2014[Հանրապետական→Ֆիզիկա]",
+      "title": "Ֆիզիկա 2014թ.",
+      "year": "2014",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Խնդիրներ - Լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/hanr-fizika-2014-xndir-lucum.pdf",
+          "filename": "hanr-fizika-2014-xndir-lucum.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "252",
+      "url": "https://olymp.am/hy/node/252",
+      "header": "2014[Մարզային→Ֆիզիկա]",
+      "title": "Ֆիզիկա 2014թ.",
+      "year": "2014",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "ԼՂՀ",
+          "url": "https://olymp.am/sites/default/file/problems/xarabax-fizika.pdf",
+          "filename": "xarabax-fizika.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լուծումներ (9-12-րդ դասարաններ)",
+          "url": "https://olymp.am/sites/default/file/problems/fiz-marz-20014-xnd-lucum.pdf",
+          "filename": "fiz-marz-20014-xnd-lucum.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Խնդիրներ (9-12-րդ դասարաններ)",
+          "url": "https://olymp.am/sites/default/file/problems/fizika-marz-2014-xndir.pdf",
+          "filename": "fizika-marz-2014-xndir.pdf",
+          "grade": "9-12-րդ դաս.",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "213",
+      "url": "https://olymp.am/hy/node/213",
+      "header": "2013[Հանրապետական→Ֆիզիկա]",
+      "title": "Ֆիզիկա - 2013",
+      "year": "2013",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Խնդիրներ և լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/hanr-sol.pdf",
+          "filename": "hanr-sol.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "194",
+      "url": "https://olymp.am/hy/node/194",
+      "header": "2013[Մարզային→Ֆիզիկա]",
+      "title": "Ֆիզիկա 2013",
+      "year": "2013",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Խնդիրներ և լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/marz13-sol.pdf",
+          "filename": "marz13-sol.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "181",
+      "url": "https://olymp.am/hy/node/181",
+      "header": "2012[Գրիգոր Բաղդասարյանի անվան օլիմպիադա→Ֆիզիկա]",
+      "title": "2012թ. Գ.Բաղդասարյանի անվ. միջվարժարանային օլիմպիադա",
+      "year": "2012",
+      "stage": "Other",
+      "attachments": [
+        {
+          "title": "Խնդիրներ և լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/mv12-fizika-xndir-lucum.pdf",
+          "filename": "mv12-fizika-xndir-lucum.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "168",
+      "url": "https://olymp.am/hy/node/168",
+      "header": "2012[Համահայկական→Ֆիզիկա]",
+      "title": "2012 Համահայկական օլիմպիադա",
+      "year": "2012",
+      "stage": "Other",
+      "attachments": [
+        {
+          "title": "Խնդիրներ",
+          "url": "https://olymp.am/sites/default/file/problems/fizika_final_arm-rus-eng.pdf",
+          "filename": "fizika_final_arm-rus-eng.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        },
+        {
+          "title": "Լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/fizika_final_arm_lutsum.pdf",
+          "filename": "fizika_final_arm_lutsum.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "138",
+      "url": "https://olymp.am/hy/node/138",
+      "header": "2012[Հանրապետական→Ֆիզիկա]",
+      "title": "2012 Ֆիզիկա",
+      "year": "2012",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Խնդիրներ և լուծումներ (Տեսական փուլ)",
+          "url": "https://olymp.am/sites/default/file/problems/fizika%20xndir-lucum.pdf",
+          "filename": "fizika%20xndir-lucum.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Փորձնական փուլ",
+          "url": "https://olymp.am/sites/default/file/problems/FIZIKA_porcnakan%20pul.doc",
+          "filename": "FIZIKA_porcnakan%20pul.doc",
+          "grade": "General",
+          "file_type": "Experimental"
+        }
+      ]
+    },
+    {
+      "node_id": "111",
+      "url": "https://olymp.am/hy/node/111",
+      "header": "2012[Մարզային→Ֆիզիկա]",
+      "title": "2012 Ֆիզիկա",
+      "year": "2012",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Խնդիրներ և Լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/%20%D6%87%20%D5%AC%D5%B8%D6%82%D5%AE%D5%B8%D6%82%D5%B4%D5%B6%D5%A5%D6%80.pdf",
+          "filename": "%20%D6%87%20%D5%AC%D5%B8%D6%82%D5%AE%D5%B8%D6%82%D5%B4%D5%B6%D5%A5%D6%80.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "75",
+      "url": "https://olymp.am/hy/node/75",
+      "header": "2011[Հանրապետական→Ֆիզիկա]",
+      "title": "Problems & Solutions",
+      "year": "2011",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Տեսական փուլ - խնդիրներ և լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/fizik-hanr-tesakan-2011.pdf",
+          "filename": "fizik-hanr-tesakan-2011.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        },
+        {
+          "title": "Փորձնական փուլ",
+          "url": "https://olymp.am/sites/default/file/problems/fizik-hanr-porcnakan-2011.pdf",
+          "filename": "fizik-hanr-porcnakan-2011.pdf",
+          "grade": "General",
+          "file_type": "Experimental"
+        }
+      ]
+    },
+    {
+      "node_id": "57",
+      "url": "https://olymp.am/hy/node/57",
+      "header": "2011[Մարզային→Ֆիզիկա]",
+      "title": "Problems & Solutions",
+      "year": "2011",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Խնդիրներ և լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/fizik-marz-2011.pdf",
+          "filename": "fizik-marz-2011.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "42",
+      "url": "https://olymp.am/hy/node/42",
+      "header": "2010[Հանրապետական→Ֆիզիկա]",
+      "title": "Problems, Solutions & Results",
+      "year": "2010",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Խնդիրներ",
+          "url": "https://olymp.am/sites/default/file/problems/fizik-hanr-2010.pdf",
+          "filename": "fizik-hanr-2010.pdf",
+          "grade": "General",
+          "file_type": "Problem Set"
+        }
+      ]
+    },
+    {
+      "node_id": "27",
+      "url": "https://olymp.am/hy/node/27",
+      "header": "2010[Մարզային→Ֆիզիկա]",
+      "title": "Problems & Solutions",
+      "year": "2010",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Խնդիրներ և լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/fizika-marz-2010.pdf",
+          "filename": "fizika-marz-2010.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "14",
+      "url": "https://olymp.am/hy/node/14",
+      "header": "2009[Հանրապետական→Ֆիզիկա]",
+      "title": "Problems, Solutions & Results",
+      "year": "2009",
+      "stage": "Republican",
+      "attachments": [
+        {
+          "title": "Փորձնական փուլ",
+          "url": "https://olymp.am/sites/default/file/problems/fizik-hanr-porcnakan-2009_0.doc",
+          "filename": "fizik-hanr-porcnakan-2009_0.doc",
+          "grade": "General",
+          "file_type": "Experimental"
+        },
+        {
+          "title": "Տեսական փուլ - խնդիրներ և լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/fizik-hanr-tesakan-2009_1.doc",
+          "filename": "fizik-hanr-tesakan-2009_1.doc",
+          "grade": "General",
+          "file_type": "Solution"
+        }
+      ]
+    },
+    {
+      "node_id": "7",
+      "url": "https://olymp.am/hy/node/7",
+      "header": "2009[Մարզային→Ֆիզիկա]",
+      "title": "Problems & Solutions",
+      "year": "2009",
+      "stage": "Regional",
+      "attachments": [
+        {
+          "title": "Խնդիրներ և լուծումներ",
+          "url": "https://olymp.am/sites/default/file/problems/fizik-marz-2009.pdf",
+          "filename": "fizik-marz-2009.pdf",
+          "grade": "General",
+          "file_type": "Solution"
+        }
+      ]
+    }
+  ]
+}

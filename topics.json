@@ -1,0 +1,77 @@
+{
+  "kinematics": {
+    "en": "Kinematics",
+    "hy": "Կինեմատիկա",
+    "ru": "Кинематика"
+  },
+  "dynamics": {
+    "en": "Dynamics",
+    "hy": "Դինամիկա",
+    "ru": "Динамика"
+  },
+  "statics": {
+    "en": "Statics",
+    "hy": "Ստատիկա",
+    "ru": "Статика"
+  },
+  "hydrostatics": {
+    "en": "Hydrostatics",
+    "hy": "Հիդրոստատիկա",
+    "ru": "Гидростатика"
+  },
+  "pressure and hydrostatics": {
+    "en": "Pressure and Hydrostatics",
+    "hy": "Ճնշում և հիդրոստատիկա",
+    "ru": "Давление и гидростатика"
+  },
+  "thermodynamics": {
+    "en": "Thermodynamics",
+    "hy": "Թերմոդինամիկա",
+    "ru": "Термодинамика"
+  },
+  "electricity and magnetism": {
+    "en": "Electricity and Magnetism",
+    "hy": "Էլեկտրականություն և մագնիսականություն",
+    "ru": "Электричество и магнетизм"
+  },
+  "electrodynamics": {
+    "en": "Electrodynamics",
+    "hy": "Էլեկտրամագնիսականություն",
+    "ru": "Электродинамика"
+  },
+  "optics": {
+    "en": "Optics",
+    "hy": "Օպտիկա",
+    "ru": "Оптика"
+  },
+  "circuits": {
+    "en": "Electric Circuits",
+    "hy": "Էլեկտրական շղթաներ",
+    "ru": "Электрические цепи"
+  },
+  "waves": {
+    "en": "Waves and Oscillations",
+    "hy": "Ալիքներ և տատանումներ",
+    "ru": "Волны и колебания"
+  },
+  "oscillations": {
+    "en": "Oscillations",
+    "hy": "Տատանումներ",
+    "ru": "Колебания"
+  },
+  "quantum": {
+    "en": "Quantum Physics",
+    "hy": "Քվանտային ֆիզիկա",
+    "ru": "Квантовая физика"
+  },
+  "gravity": {
+    "en": "Gravity",
+    "hy": "Ձգողականություն",
+    "ru": "Гравитация"
+  },
+  "general": {
+    "en": "General",
+    "hy": "Ընդհանուր",
+    "ru": "Общая физика"
+  }
+}
